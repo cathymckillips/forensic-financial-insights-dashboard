@@ -1,0 +1,501 @@
+Transaction_ID,Date,Vendor,Department,Employee,Amount,Currency,Payment_Type,Approval_Level,Approval_Date,Invoice_Number,Country,City,Flag_Suspicious,Duplicate_Amount_Flag,Weekend_Transaction,Risk_Score
+T1000,2023-01-01,Smith-Jackson,Sales,Cory Pittman,8263.7,USD,ACH,VP,2023-01-02,INV-657076,United States Minor Outlying Islands,Port Michael,0,0,1,1
+T1001,2023-01-02,"Garcia, Gardner and Chen",Operations,Martin May,5052.51,USD,Wire,VP,2023-01-03,INV-773731,Antarctica (the territory South of 60 deg S),Nicoleview,0,0,0,0
+T1002,2023-01-03,Jackson and Sons,IT,Adam Ramos,6704.88,EUR,Credit Card,Manager,2023-01-04,INV-874612,Ukraine,West Ericland,0,0,0,0
+T1003,2023-01-04,Johnson-Robertson,Operations,Daniel Wells,4224.33,USD,Check,VP,2023-01-05,INV-463239,Guatemala,Lake Troyview,0,0,0,0
+T1004,2023-01-05,Brown and Sons,Operations,Jennifer Johnson,5810.42,USD,ACH,CFO,2023-01-06,INV-733969,Sudan,New Staciestad,0,0,0,0
+T1005,2023-01-06,"Garner, Perez and Baxter",HR,Dr. Anthony Smith,4674.64,EUR,Credit Card,Director,2023-01-07,INV-782309,Benin,West Joseside,0,0,0,0
+T1006,2023-01-07,Figueroa Inc,IT,Jerome Stanley,5242.49,EUR,Wire,Director,2023-01-08,INV-588284,Fiji,Burkechester,0,0,1,1
+T1007,2023-01-08,Mills Inc,IT,Jessica Peterson DDS,6487.89,EUR,ACH,Director,2023-01-09,INV-440858,France,Klineton,0,0,1,1
+T1008,2023-01-09,Clarke-Taylor,IT,Shirley Jackson,2954.45,GBP,Check,Manager,2023-01-10,INV-216957,Mozambique,Port Derrick,1,0,0,3
+T1009,2023-01-10,Elliott Inc,Operations,Christopher Johnson,10230.97,GBP,Credit Card,VP,2023-01-11,INV-620436,Saint Helena,Williamsmouth,1,0,0,3
+T1010,2023-01-11,Fuller and Sons,Sales,Shannon Tucker DVM,2484.96,EUR,Check,CFO,2023-01-12,INV-402541,Tokelau,Hardingburgh,0,0,0,0
+T1011,2023-01-12,Johnson PLC,IT,Andrea Drake DVM,1964.53,EUR,Wire,CFO,2023-01-13,INV-255659,Sri Lanka,East Susantown,1,0,0,3
+T1012,2023-01-13,"Kemp, Allen and Lee",Operations,Walter Wilson,7895.28,EUR,Credit Card,Manager,2023-01-14,INV-857051,Congo,Port Kristen,0,0,0,0
+T1013,2023-01-14,Griffin-Ayers,HR,Paul Parker,6979.16,GBP,Wire,CFO,2023-01-15,INV-413593,French Polynesia,Colliertown,1,0,1,4
+T1014,2023-01-15,"Chavez, Lutz and Lee",Sales,Tammie Santana,6560.3,GBP,Wire,CFO,2023-01-16,INV-472271,Panama,West Lisaberg,0,0,1,1
+T1015,2023-01-16,"Lane, Williams and Nielsen",HR,Brian Schmidt,6570.86,USD,ACH,CFO,2023-01-17,INV-506483,Bermuda,West Scott,0,0,0,0
+T1016,2023-01-17,Hoover Ltd,Sales,Dr. Jason Lopez,4969.38,USD,Check,CFO,2023-01-18,INV-43263,Luxembourg,South Robert,1,0,0,3
+T1017,2023-01-18,Wright-Williams,Operations,Joseph Brooks,2756.86,EUR,Credit Card,VP,2023-01-19,INV-454991,Ethiopia,North Williamside,0,0,0,0
+T1018,2023-01-19,Beard LLC,Finance,Kaylee White,5189.51,GBP,Wire,CFO,2023-01-20,INV-32890,Central African Republic,Andrewton,0,0,0,0
+T1019,2023-01-20,"Abbott, Alexander and Goodwin",Sales,Kenneth Griffin,3307.1,GBP,Wire,Director,2023-01-21,INV-876363,Uzbekistan,Stewartview,0,0,0,0
+T1020,2023-01-21,Nolan LLC,HR,Ronald Gillespie,7437.8,GBP,Credit Card,Manager,2023-01-22,INV-512947,Iraq,Port Brenda,0,0,1,1
+T1021,2023-01-22,"Roberts, Simmons and Moreno",Operations,Samantha Gilbert,4632.36,EUR,Wire,VP,2023-01-23,INV-616841,Gibraltar,South Blakeburgh,0,0,1,1
+T1022,2023-01-23,"Brooks, Alexander and Oneal",Sales,Charles Casey,2936.26,USD,ACH,CFO,2023-01-24,INV-948795,Israel,Jennifertown,0,0,0,0
+T1023,2023-01-24,Fernandez-Hubbard,Finance,Kimberly Coffey,4196.54,EUR,ACH,VP,2023-01-25,INV-566942,Barbados,Tylerfurt,0,0,0,0
+T1024,2023-01-25,Robinson and Sons,Finance,Kayla Coffey,6032.33,USD,ACH,CFO,2023-01-26,INV-908826,Eritrea,Nicoleland,1,0,0,3
+T1025,2023-01-26,Cohen-Hall,IT,Michelle Fowler,3590.69,USD,ACH,Director,2023-01-27,INV-33538,Ecuador,Zimmermanbury,0,0,0,0
+T1026,2023-01-27,Perez-Burnett,IT,Chris Bates,2944.45,EUR,Wire,Manager,2023-01-28,INV-6299,Egypt,Lake Barbara,0,0,0,0
+T1027,2023-01-28,Rhodes-Horn,HR,Ryan Howard,5609.22,USD,Credit Card,CFO,2023-01-29,INV-57511,Germany,Sanchezville,0,0,1,1
+T1028,2023-01-29,"Cox, Fox and Farmer",Sales,Ashley Davis,5612.42,USD,Credit Card,CFO,2023-01-30,INV-615920,Georgia,North Pamborough,0,0,1,1
+T1029,2023-01-30,"Davis, Castro and Kennedy",Sales,Albert Clark,3732.64,GBP,Credit Card,CFO,2023-01-31,INV-19939,Morocco,New Heather,0,0,0,0
+T1030,2023-01-31,Paul-Thornton,IT,Colin Johns,3822.4,USD,Credit Card,CFO,2023-02-01,INV-389988,Luxembourg,Simpsonburgh,0,0,0,0
+T1031,2023-02-01,Williams-Fernandez,Sales,Jamie Davidson,5580.12,EUR,Check,Manager,2023-02-02,INV-540194,Burundi,Jameshaven,0,0,0,0
+T1032,2023-02-02,Morrison Group,Sales,Charles Raymond,1379.79,EUR,Credit Card,Manager,2023-02-03,INV-86003,Jersey,Boothberg,0,0,0,0
+T1033,2023-02-03,Turner-Alexander,Finance,Jason Bishop,1481.34,USD,Check,Director,2023-02-04,INV-806639,Saint Martin,Hawkinshaven,0,0,0,0
+T1034,2023-02-04,"Williams, Terrell and Hardin",IT,Terry Green,3203.89,GBP,Check,Manager,2023-02-05,INV-385420,Timor-Leste,East Amyfurt,0,0,1,1
+T1035,2023-02-05,Wright Group,Operations,Kimberly Cummings,4466.38,GBP,ACH,CFO,2023-02-06,INV-488528,Luxembourg,Velazquezhaven,0,0,1,1
+T1036,2023-02-06,Anthony PLC,IT,Laurie Garcia,5777.27,USD,Check,Director,2023-02-07,INV-522924,Niger,New Russellville,0,0,0,0
+T1037,2023-02-07,"Garcia, Williams and Smith",Operations,Christopher Lang,8688.39,USD,Wire,Director,2023-02-08,INV-511080,Czech Republic,Marksside,0,0,0,0
+T1038,2023-02-08,Gomez Ltd,Finance,Erica Torres,7144.15,EUR,Check,Director,2023-02-09,INV-830251,Mali,North Brandon,0,0,0,0
+T1039,2023-02-09,"Brooks, French and Mccoy",HR,Rodney Evans,4600.15,USD,ACH,CFO,2023-02-10,INV-848360,United Arab Emirates,Whiteville,0,0,0,0
+T1040,2023-02-10,Miller Group,Sales,Sandy Clark,4952.46,GBP,Check,VP,2023-02-11,INV-722607,Czech Republic,Ericstad,1,0,0,3
+T1041,2023-02-11,Bell PLC,Finance,Sarah Schneider,2493.68,USD,Wire,CFO,2023-02-12,INV-947676,Palestinian Territory,Smithview,0,0,1,1
+T1042,2023-02-12,Clayton-Mcintosh,Sales,Jonathan Hicks,4953.72,EUR,Wire,Manager,2023-02-13,INV-771060,Palestinian Territory,Wardberg,1,0,1,4
+T1043,2023-02-13,Jordan Ltd,HR,Cody Ferguson,4278.35,EUR,Wire,Manager,2023-02-14,INV-263213,Puerto Rico,Lauramouth,0,0,0,0
+T1044,2023-02-14,"Davis, Ware and Taylor",HR,Debbie Lewis,5806.8,EUR,ACH,CFO,2023-02-15,INV-224861,Myanmar,Torresfort,0,0,0,0
+T1045,2023-02-15,Wood Group,Finance,Bill Higgins,2931.92,EUR,ACH,CFO,2023-02-16,INV-871317,Western Sahara,South Kayla,0,0,0,0
+T1046,2023-02-16,Evans LLC,HR,Christina Dalton,6298.37,EUR,Credit Card,Director,2023-02-17,INV-265645,Papua New Guinea,North John,0,0,0,0
+T1047,2023-02-17,Franco LLC,Operations,Andrea Perez,8831.85,USD,ACH,CFO,2023-02-18,INV-924212,Algeria,Blairfort,0,0,0,0
+T1048,2023-02-18,Hall Ltd,HR,Suzanne Short,4728.1,USD,Wire,Director,2023-02-19,INV-617688,Swaziland,Sullivanbury,0,0,1,1
+T1049,2023-02-19,Roy-Palmer,Sales,Katrina Thornton,6004.28,USD,Wire,Manager,2023-02-20,INV-760702,Samoa,Collinstown,1,0,1,4
+T1050,2023-02-20,Potts-Rose,Sales,Peter Petty,6725.36,USD,ACH,Director,2023-02-21,INV-307797,Guyana,North Leahtown,0,0,0,0
+T1051,2023-02-21,Johnson-Crosby,Sales,Daniel Reid,3996.95,EUR,Check,CFO,2023-02-22,INV-978633,Tajikistan,Sydneyside,1,0,0,3
+T1052,2023-02-22,"Salazar, Morales and James",Sales,Edward Mejia,5560.23,GBP,ACH,Manager,2023-02-23,INV-269789,United States of America,New Bonniebury,0,0,0,0
+T1053,2023-02-23,Ross PLC,Operations,Michael Walls DVM,5031.48,USD,ACH,VP,2023-02-24,INV-658201,Cameroon,West Alejandramouth,1,0,0,3
+T1054,2023-02-24,Jensen LLC,IT,Victoria Yates,5244.19,GBP,Wire,Director,2023-02-25,INV-118969,Jersey,Dunnborough,0,0,0,0
+T1055,2023-02-25,Greene Ltd,Finance,Sarah Conway,3067.48,USD,Credit Card,Manager,2023-02-26,INV-883635,Montenegro,Griffinborough,0,0,1,1
+T1056,2023-02-26,Hughes-Whitaker,Sales,Erin Miller,5061.28,USD,Wire,Director,2023-02-27,INV-272610,Italy,Andreamouth,0,0,1,1
+T1057,2023-02-27,Edwards Group,HR,Sandra Cruz,6245.0,GBP,Credit Card,Manager,2023-02-28,INV-850326,Guernsey,South Rhondaside,0,0,0,0
+T1058,2023-02-28,"Jones, Foley and Nguyen",Sales,Danny Romero,8627.86,EUR,Wire,Manager,2023-03-01,INV-971316,Bahrain,South Danielle,0,0,0,0
+T1059,2023-03-01,"Green, Stanley and Leonard",HR,Michael Ramos,7398.18,USD,ACH,Director,2023-03-02,INV-891381,Chad,North Davidtown,0,0,0,0
+T1060,2023-03-02,Cook Ltd,HR,Robert Bates,10382.96,USD,Wire,VP,2023-03-03,INV-934299,Gabon,Rileychester,1,0,0,3
+T1061,2023-03-03,Marquez and Sons,Sales,Gregory Clark,3081.63,USD,Wire,Manager,2023-03-04,INV-389221,Mexico,North Thomaston,0,0,0,0
+T1062,2023-03-04,Roberts-Parks,Operations,Susan Rodriguez,7180.8,GBP,Wire,Manager,2023-03-05,INV-57360,Sierra Leone,Martinezhaven,0,0,1,1
+T1063,2023-03-05,Jenkins Inc,HR,Robert Lin,5458.36,EUR,ACH,Manager,2023-03-06,INV-26795,Uganda,Lake Bianca,0,0,1,1
+T1064,2023-03-06,"Ramos, Duarte and Choi",HR,Mr. Francisco Harris,10474.51,GBP,ACH,VP,2023-03-07,INV-849259,Guinea-Bissau,Marissafort,1,0,0,3
+T1065,2023-03-07,Cohen-Davis,Sales,Kerry Wilkins,2979.25,GBP,ACH,VP,2023-03-08,INV-511002,Vietnam,North Kelly,1,0,0,3
+T1066,2023-03-08,"Richardson, Pruitt and Jensen",HR,Andrea Navarro,2900.7,EUR,ACH,CFO,2023-03-09,INV-694596,Peru,New Jorge,0,0,0,0
+T1067,2023-03-09,"Sandoval, Ward and Greene",HR,Kenneth Murphy,3501.52,GBP,Credit Card,Director,2023-03-10,INV-435329,Guinea,New Angelaview,0,0,0,0
+T1068,2023-03-10,"Clark, Greene and Davidson",Sales,Megan Myers,-309.74,EUR,Credit Card,VP,2023-03-11,INV-788668,Papua New Guinea,North Chad,1,0,0,3
+T1069,2023-03-11,"Allen, Harmon and George",Sales,Jason Jones,3685.61,USD,Check,Director,2023-03-12,INV-922986,United States of America,Jonathanton,0,0,1,1
+T1070,2023-03-12,Ramirez PLC,Finance,Stephen Lang,3102.17,EUR,ACH,CFO,2023-03-13,INV-47806,Turkey,Port Rachelport,0,0,1,1
+T1071,2023-03-13,Jackson Ltd,Operations,George Robbins,5375.98,USD,Credit Card,Director,2023-03-14,INV-434913,Burkina Faso,West Brianton,0,0,0,0
+T1072,2023-03-14,"Caldwell, Reyes and Johnson",Operations,Kimberly Johnston,5854.39,GBP,Wire,VP,2023-03-15,INV-302703,Ethiopia,Stephanieton,0,0,0,0
+T1073,2023-03-15,Walker Group,HR,Tanya Goodman,9690.43,GBP,ACH,Director,2023-03-16,INV-650828,Palau,Valdezburgh,1,0,0,3
+T1074,2023-03-16,"Roy, Jones and Alexander",Operations,David Yu,7376.06,USD,Check,VP,2023-03-17,INV-184565,Liechtenstein,New Philipstad,0,0,0,0
+T1075,2023-03-17,Kennedy-Rodriguez,HR,Dawn Kim,3557.74,GBP,Check,Director,2023-03-18,INV-189271,Senegal,New Randy,0,0,0,0
+T1076,2023-03-18,"West, Becker and Nelson",Finance,Vanessa Hernandez,2753.96,EUR,Check,VP,2023-03-19,INV-72128,Albania,South Peter,0,0,1,1
+T1077,2023-03-19,Martinez-Allen,Sales,Anna Jones,6229.8,USD,Wire,VP,2023-03-20,INV-599881,Cayman Islands,East Adam,0,0,1,1
+T1078,2023-03-20,Daniel Inc,Sales,William Schmidt,1699.42,GBP,Credit Card,Director,2023-03-21,INV-35145,Rwanda,East Nicholas,0,0,0,0
+T1079,2023-03-21,Herrera-Calderon,Sales,Sandra Gonzalez,9578.65,USD,Wire,CFO,2023-03-22,INV-642041,San Marino,Lake Linda,1,0,0,3
+T1080,2023-03-22,Kramer Inc,Operations,Kenneth Cook,7948.6,EUR,ACH,Manager,2023-03-23,INV-686009,Botswana,New Amy,0,0,0,0
+T1081,2023-03-23,Carter-Harris,Finance,Christine Davis,3827.06,EUR,Check,CFO,2023-03-24,INV-678170,Ethiopia,Alexanderville,0,0,0,0
+T1082,2023-03-24,Hickman-Torres,Operations,Kyle Hudson,717.16,GBP,Wire,Director,2023-03-25,INV-604045,Portugal,Loveburgh,0,0,0,0
+T1083,2023-03-25,Elliott PLC,Operations,Vanessa Hall,8384.68,EUR,Wire,CFO,2023-03-26,INV-495762,Cameroon,Charleneview,0,0,1,1
+T1084,2023-03-26,"Barnes, Roman and Morgan",Finance,Robert Le,4713.65,USD,Credit Card,VP,2023-03-27,INV-179996,Venezuela,Singhland,0,0,1,1
+T1085,2023-03-27,"Brooks, Lowery and Castillo",Finance,Alfred Jordan,8094.54,EUR,Credit Card,Manager,2023-03-28,INV-259998,Norway,Port Anthonyfort,0,0,0,0
+T1086,2023-03-28,Dunn-Thomas,Finance,Stephanie Carter,1013.93,USD,Check,Director,2023-03-29,INV-651077,Cambodia,Port Joseph,1,0,0,3
+T1087,2023-03-29,Owen-Ross,Finance,Tara Allen,3501.56,USD,Wire,Director,2023-03-30,INV-635150,France,North Jeffreychester,0,0,0,0
+T1088,2023-03-30,Harmon-Spencer,Sales,Rodney Hess,5013.11,EUR,Wire,Director,2023-03-31,INV-165575,South Georgia and the South Sandwich Islands,Port Ericaville,1,0,0,3
+T1089,2023-03-31,Hale Ltd,IT,Benjamin Dorsey,5117.45,GBP,Credit Card,Manager,2023-04-01,INV-405681,Zimbabwe,Fitzgeraldfurt,0,0,0,0
+T1090,2023-04-01,Maldonado-Juarez,IT,Jon Peters,3874.84,EUR,Wire,VP,2023-04-02,INV-214571,Saint Vincent and the Grenadines,Sheriside,0,0,1,1
+T1091,2023-04-02,"Knight, Campbell and Anderson",Finance,Marilyn Davis,6557.12,USD,Wire,Director,2023-04-03,INV-32699,Somalia,North Andrea,0,0,1,1
+T1092,2023-04-03,Wright Group,IT,Benjamin Wilson,2330.95,USD,Wire,CFO,2023-04-04,INV-502562,New Caledonia,Beanberg,0,0,0,0
+T1093,2023-04-04,Donovan-Mathews,IT,Monica Nunez,4644.05,EUR,Credit Card,Director,2023-04-05,INV-708017,Nauru,New Rita,0,0,0,0
+T1094,2023-04-05,Young Ltd,Finance,Mary Mason,5300.74,GBP,Check,Director,2023-04-06,INV-834700,Nepal,Bradleymouth,0,0,0,0
+T1095,2023-04-06,Randolph-Blair,IT,Matthew Taylor,6286.1,GBP,ACH,Director,2023-04-07,INV-10572,Norfolk Island,Port Jessica,0,0,0,0
+T1096,2023-04-07,"Robinson, Martinez and Flores",Operations,Mark Haney MD,6779.04,USD,Check,Director,2023-04-08,INV-882995,Japan,East April,0,0,0,0
+T1097,2023-04-08,Miller Inc,HR,Toni Wilson,2188.39,USD,ACH,VP,2023-04-09,INV-309036,Suriname,South Timothy,0,0,1,1
+T1098,2023-04-09,Reed-Foster,HR,Michael Taylor,1164.71,GBP,Wire,CFO,2023-04-10,INV-992609,Micronesia,New Sarastad,0,0,1,1
+T1099,2023-04-10,"Hooper, Lara and Montoya",Finance,Nicole Hayes,8194.19,EUR,Check,VP,2023-04-11,INV-7982,Zimbabwe,Onealland,0,0,0,0
+T1100,2023-04-11,"Espinoza, Kelly and Fernandez",Sales,Kevin Bennett,5830.79,USD,ACH,CFO,2023-04-12,INV-412868,Syrian Arab Republic,Davisborough,0,0,0,0
+T1101,2023-04-12,"Cruz, Johnson and Clark",Finance,Dana Mitchell,3128.78,USD,Credit Card,Director,2023-04-13,INV-846237,Liberia,South Andrea,0,0,0,0
+T1102,2023-04-13,Singh-Smith,Sales,Catherine Smith,8877.88,GBP,Credit Card,Manager,2023-04-14,INV-119517,Guadeloupe,North Madisonton,0,0,0,0
+T1103,2023-04-14,"Wolfe, Santiago and Peterson",HR,Wendy Jackson,5289.19,EUR,Check,VP,2023-04-15,INV-704881,United Kingdom,Erinhaven,0,0,0,0
+T1104,2023-04-15,Wheeler-Roman,Finance,Brian Nelson,7948.24,GBP,Check,Manager,2023-04-16,INV-775524,Tanzania,East Margaret,0,0,1,1
+T1105,2023-04-16,Salazar-Gaines,Operations,David Hall,5168.8,EUR,Wire,VP,2023-04-17,INV-478313,Seychelles,Port Michelleville,0,0,1,1
+T1106,2023-04-17,Patel Ltd,IT,Jermaine Mercado,10151.87,EUR,Check,Director,2023-04-18,INV-308926,Haiti,Taylorton,1,0,0,3
+T1107,2023-04-18,"Ruiz, Miles and Gray",Sales,Luis Zhang,9388.35,EUR,Wire,VP,2023-04-19,INV-769682,French Polynesia,Milesfort,0,0,0,0
+T1108,2023-04-19,"Hatfield, Lee and Nunez",IT,Sharon Smith,4377.59,USD,Wire,Director,2023-04-20,INV-735944,Saint Barthelemy,Warrenport,0,0,0,0
+T1109,2023-04-20,"Daniels, Chan and Smith",IT,Veronica Marquez,7428.93,GBP,Credit Card,VP,2023-04-21,INV-738342,Micronesia,East Daniel,0,0,0,0
+T1110,2023-04-21,Mejia and Sons,Finance,John Payne,6613.44,GBP,Credit Card,Director,2023-04-22,INV-704891,Taiwan,New Jacob,0,0,0,0
+T1111,2023-04-22,"Armstrong, Peters and Shepard",IT,Theresa Walton,8421.58,EUR,ACH,Director,2023-04-23,INV-922329,Kuwait,Allisonberg,0,0,1,1
+T1112,2023-04-23,"Soto, Jones and Hampton",Operations,Danielle Kline,2587.69,USD,Credit Card,CFO,2023-04-24,INV-68634,Madagascar,Nelsonview,0,0,1,1
+T1113,2023-04-24,Tanner and Sons,IT,Nathan Vega,6715.13,USD,Credit Card,Director,2023-04-25,INV-546281,Turkey,Monicaville,0,0,0,0
+T1114,2023-04-25,Goodman PLC,Finance,Tristan Sims,7646.06,GBP,Check,CFO,2023-04-26,INV-180480,Guam,East Jacobtown,0,0,0,0
+T1115,2023-04-26,Johnson-Beasley,Operations,John Green,603.15,USD,Credit Card,Director,2023-04-27,INV-652667,Libyan Arab Jamahiriya,East Steven,0,0,0,0
+T1116,2023-04-27,"Kaufman, Lee and Carney",HR,Rachel Hubbard,2041.85,USD,ACH,Manager,2023-04-28,INV-627919,Seychelles,Petersonfurt,1,0,0,3
+T1117,2023-04-28,Farley PLC,IT,Ashley Hill,-98.08,EUR,Check,Director,2023-04-29,INV-1983,Sierra Leone,Christensenfort,1,0,0,3
+T1118,2023-04-29,"Marshall, Chapman and Dickerson",Finance,Desiree Harris,4326.48,USD,ACH,Manager,2023-04-30,INV-590337,Ukraine,North Austinmouth,0,0,1,1
+T1119,2023-04-30,"Phillips, Bennett and Miller",HR,Stephen Richardson,6793.86,EUR,Credit Card,Manager,2023-05-01,INV-33401,Bosnia and Herzegovina,Lake Amber,0,0,1,1
+T1120,2023-05-01,Oneal-Williams,HR,Heather Scott,8755.89,GBP,ACH,Director,2023-05-02,INV-420912,Gibraltar,Alexside,0,0,0,0
+T1121,2023-05-02,"Martinez, Archer and Maxwell",Sales,Amanda Mccarthy,5185.24,USD,Check,Manager,2023-05-03,INV-938124,Algeria,Kimton,0,0,0,0
+T1122,2023-05-03,Rivas Inc,Operations,Frank Strong,9071.54,GBP,Wire,CFO,2023-05-04,INV-435469,Djibouti,New Amymouth,0,0,0,0
+T1123,2023-05-04,Finley-Tyler,IT,Marcus Martin,1549.75,GBP,ACH,VP,2023-05-05,INV-345646,Brazil,North Susanville,0,0,0,0
+T1124,2023-05-05,"Chambers, Hampton and Eaton",Finance,Olivia Robbins,741.54,USD,ACH,Director,2023-05-06,INV-849117,Denmark,Nicoleport,0,0,0,0
+T1125,2023-05-06,Stewart-Martin,Sales,Sean Strong,4861.13,USD,Check,Manager,2023-05-07,INV-441568,Australia,Port Andreaton,0,0,1,1
+T1126,2023-05-07,Brooks Group,Operations,James Mckay,5960.16,GBP,Check,Director,2023-05-08,INV-207491,French Polynesia,Madisonborough,1,0,1,4
+T1127,2023-05-08,Morales-Stone,Sales,Sherry Burton,4918.26,USD,ACH,CFO,2023-05-09,INV-709465,Portugal,Blairfort,0,0,0,0
+T1128,2023-05-09,"Richardson, Rodriguez and Norman",Operations,Jack Zamora,-168.61,EUR,Credit Card,Director,2023-05-10,INV-415459,Cameroon,West Dennis,1,0,0,3
+T1129,2023-05-10,"Pollard, Norris and Morgan",Operations,Dominique Davis,4777.2,EUR,ACH,Director,2023-05-11,INV-765940,Monaco,Duranbury,0,0,0,0
+T1130,2023-05-11,"Campbell, Campbell and Thompson",IT,Laura White,1738.83,USD,Check,Manager,2023-05-12,INV-838391,Jersey,Nathanburgh,0,0,0,0
+T1131,2023-05-12,"Jones, Alvarez and Smith",Operations,Jose Brown,6674.18,GBP,Wire,CFO,2023-05-13,INV-431152,Taiwan,South Lisashire,0,0,0,0
+T1132,2023-05-13,Huffman Group,Sales,Raymond Young,5916.5,USD,Wire,VP,2023-05-14,INV-127856,Thailand,Flynnland,0,0,1,1
+T1133,2023-05-14,Vaughan-Moore,Operations,Kathleen Steele,2650.3,USD,Credit Card,VP,2023-05-15,INV-128556,Heard Island and McDonald Islands,Gibbsbury,0,0,1,1
+T1134,2023-05-15,"Burns, Taylor and Wolfe",IT,Alec Summers,3715.33,GBP,ACH,Manager,2023-05-16,INV-543611,Monaco,Christopherview,0,0,0,0
+T1135,2023-05-16,"Sanchez, Richardson and Mcpherson",IT,Sarah Brooks,2351.97,GBP,Wire,Director,2023-05-17,INV-884339,Congo,Jayland,0,0,0,0
+T1136,2023-05-17,"Gonzalez, Davis and Dean",Sales,Samuel Andrews,4843.3,EUR,ACH,Manager,2023-05-18,INV-427676,Morocco,Lake Jasonport,0,0,0,0
+T1137,2023-05-18,"Wall, Gutierrez and Thomas",HR,Pamela Baxter,7387.86,GBP,Check,Manager,2023-05-19,INV-691522,United Arab Emirates,New Rachel,0,0,0,0
+T1138,2023-05-19,Velazquez and Sons,HR,Kristin Bell,2535.68,EUR,Wire,Manager,2023-05-20,INV-333712,Korea,West Sherryfort,0,0,0,0
+T1139,2023-05-20,Smith-Reyes,Operations,Christine Benjamin DDS,6260.12,GBP,Credit Card,Director,2023-05-21,INV-309503,Palau,South Teresa,0,0,1,1
+T1140,2023-05-21,Hill Group,Finance,April White,3674.36,USD,Check,CFO,2023-05-22,INV-607589,Georgia,Edwardsberg,0,0,1,1
+T1141,2023-05-22,Perkins-Keith,Operations,Jason Cruz,3017.82,EUR,Credit Card,Manager,2023-05-23,INV-112521,Burundi,Port Cory,1,0,0,3
+T1142,2023-05-23,"Adams, Moss and Bentley",Sales,Dr. Marilyn Atkins,4732.42,EUR,Check,Director,2023-05-24,INV-577255,Sudan,West Erik,0,0,0,0
+T1143,2023-05-24,Gutierrez-Hunter,Sales,Paula Meyers,2411.89,EUR,Wire,CFO,2023-05-25,INV-134463,Tuvalu,Adamsfurt,0,0,0,0
+T1144,2023-05-25,Navarro LLC,Sales,Tracy Edwards,3615.88,USD,Credit Card,Manager,2023-05-26,INV-632478,United States Virgin Islands,East Mindyburgh,0,0,0,0
+T1145,2023-05-26,"Johnson, Fuller and Ellison",Sales,George Ramos,2005.31,USD,Credit Card,VP,2023-05-27,INV-139866,Seychelles,Williamland,1,0,0,3
+T1146,2023-05-27,"Delgado, Rogers and Wood",Sales,Jennifer Rodriguez,9911.81,USD,Check,CFO,2023-05-28,INV-433435,Netherlands Antilles,Lake Kaylamouth,1,0,1,4
+T1147,2023-05-28,"Thornton, Bowen and Marsh",IT,Daniel Woods,5088.16,USD,Credit Card,Manager,2023-05-29,INV-867567,United States Virgin Islands,Lake Stevenville,0,0,1,1
+T1148,2023-05-29,"Booth, Burton and Bridges",HR,Cindy Miller,3250.69,USD,Check,CFO,2023-05-30,INV-790581,Turkey,Lake Samuel,0,0,0,0
+T1149,2023-05-30,Lewis-Sanchez,Sales,Cristian Austin,5534.95,EUR,Check,CFO,2023-05-31,INV-727526,Bangladesh,Wardfort,0,0,0,0
+T1150,2023-05-31,Bennett-Barr,Finance,Mike Fowler,4719.18,USD,Check,CFO,2023-06-01,INV-974357,Thailand,Duffymouth,0,0,0,0
+T1151,2023-06-01,Armstrong and Sons,Finance,Briana Lee,4447.58,EUR,Check,CFO,2023-06-02,INV-363719,Antigua and Barbuda,North Jack,0,0,0,0
+T1152,2023-06-02,West Ltd,Finance,Mary Hunt,6535.42,USD,Wire,CFO,2023-06-03,INV-216110,South Georgia and the South Sandwich Islands,Port Kristin,0,0,0,0
+T1153,2023-06-03,"Sanchez, Porter and Simmons",Finance,Joshua Miller,6893.77,GBP,Check,CFO,2023-06-04,INV-808226,Gabon,Perezmouth,0,0,1,1
+T1154,2023-06-04,Parker and Sons,IT,Jessica Butler,3673.75,EUR,ACH,Manager,2023-06-05,INV-600954,Antigua and Barbuda,Lake Jennifermouth,0,0,1,1
+T1155,2023-06-05,Johnson-Nash,Finance,James Lee,3560.45,GBP,Credit Card,VP,2023-06-06,INV-320231,Niue,Royfurt,0,0,0,0
+T1156,2023-06-06,"Reynolds, Brown and Hogan",Sales,Daniel Mccoy,4312.37,EUR,ACH,Director,2023-06-07,INV-790305,Tunisia,Obrienstad,0,0,0,0
+T1157,2023-06-07,Wood Group,Operations,Michael Smith,-754.8,GBP,Wire,CFO,2023-06-08,INV-737088,Andorra,South Meganstad,1,0,0,3
+T1158,2023-06-08,"Ward, Sims and Herrera",Finance,Michael Jones,1212.02,USD,ACH,Director,2023-06-09,INV-987201,Korea,Odommouth,0,0,0,0
+T1159,2023-06-09,Frost Ltd,IT,Wendy Boyd,8417.19,USD,Credit Card,Manager,2023-06-10,INV-234670,United States Minor Outlying Islands,East Travis,0,0,0,0
+T1160,2023-06-10,Mcguire Group,IT,Carrie Ortega,9112.42,USD,ACH,CFO,2023-06-11,INV-245042,Mauritania,Briannaview,0,0,1,1
+T1161,2023-06-11,Davis-Juarez,Finance,Justin Ford,4377.41,EUR,Wire,VP,2023-06-12,INV-410574,Guatemala,New Daisystad,0,0,1,1
+T1162,2023-06-12,"Gross, Lindsey and Malone",Operations,Mr. Jason Hamilton MD,6441.39,GBP,Check,Director,2023-06-13,INV-724475,Congo,Potterhaven,0,0,0,0
+T1163,2023-06-13,Schneider LLC,Finance,Derrick Cisneros,5778.13,USD,ACH,CFO,2023-06-14,INV-854791,Equatorial Guinea,Sandrabury,0,0,0,0
+T1164,2023-06-14,Lewis-Rangel,IT,Ariana Thompson,12697.2,GBP,Wire,Manager,2023-06-15,INV-808524,Marshall Islands,West Michael,1,0,0,3
+T1165,2023-06-15,Caldwell-Smith,HR,Pamela Chavez DVM,7798.94,GBP,Wire,VP,2023-06-16,INV-342195,Hungary,Lowemouth,0,0,0,0
+T1166,2023-06-16,Green Group,Sales,Mark Lawrence,4680.21,USD,Credit Card,Director,2023-06-17,INV-776223,Cocos (Keeling) Islands,Jonestown,0,0,0,0
+T1167,2023-06-17,Flynn-Baker,IT,Sally Rosales,2611.15,USD,Credit Card,Director,2023-06-18,INV-245737,Egypt,Port Candace,0,0,1,1
+T1168,2023-06-18,"Acosta, Fischer and Bruce",Finance,Kristen Martinez,983.88,GBP,ACH,CFO,2023-06-19,INV-998153,French Southern Territories,New Kellychester,1,0,1,4
+T1169,2023-06-19,Mcdonald-Nelson,Sales,Alexander Henderson,5508.66,USD,Check,VP,2023-06-20,INV-550542,Niger,Annashire,0,0,0,0
+T1170,2023-06-20,Collins LLC,Finance,Brittany Hill,3109.12,USD,Wire,VP,2023-06-21,INV-77108,Uzbekistan,New Gabrielle,0,0,0,0
+T1171,2023-06-21,Cross-Washington,Finance,Christine Mora,1444.37,USD,ACH,VP,2023-06-22,INV-743322,El Salvador,Jessicaville,0,0,0,0
+T1172,2023-06-22,"Miller, Frazier and Lee",HR,Alexandra Mays,3383.57,EUR,Wire,VP,2023-06-23,INV-910857,Uzbekistan,Stewartchester,0,0,0,0
+T1173,2023-06-23,"Fritz, Scott and Fleming",Sales,Christopher Williams,2296.13,GBP,Wire,Manager,2023-06-24,INV-744785,French Polynesia,East Danny,0,0,0,0
+T1174,2023-06-24,Contreras PLC,Sales,Courtney Sheppard,9217.85,GBP,Check,VP,2023-06-25,INV-846213,Qatar,Port Tracy,0,0,1,1
+T1175,2023-06-25,Davis-Frank,HR,Bryan Howe,7204.1,EUR,Check,Director,2023-06-26,INV-6486,Norfolk Island,Krististad,0,0,1,1
+T1176,2023-06-26,"Dennis, Chambers and Smith",IT,Michael Lin,4980.07,GBP,ACH,Director,2023-06-27,INV-80454,Netherlands,North Robert,1,0,0,3
+T1177,2023-06-27,"Parks, Aguilar and Adams",Finance,Christopher Robinson,8699.86,USD,Check,Manager,2023-06-28,INV-907991,Tanzania,North Anna,0,0,0,0
+T1178,2023-06-28,Johnston PLC,Operations,Peter Davis,5193.42,GBP,Check,Director,2023-06-29,INV-283938,Senegal,Bruceshire,0,0,0,0
+T1179,2023-06-29,Pollard-Sloan,Finance,Melissa Fowler,2846.79,USD,ACH,Director,2023-06-30,INV-277532,Heard Island and McDonald Islands,Lake Rickyshire,0,0,0,0
+T1180,2023-06-30,"Carroll, Long and Fisher",Finance,Tina Sullivan,8807.81,EUR,Check,VP,2023-07-01,INV-172176,Martinique,Port Jeffrey,0,0,0,0
+T1181,2023-07-01,Rivera-Sanchez,IT,Melissa Garcia,6347.28,USD,Credit Card,Director,2023-07-02,INV-554641,Nigeria,Andreaborough,0,0,1,1
+T1182,2023-07-02,"Anderson, Erickson and Ward",Finance,Brian Bell,2406.88,GBP,Wire,Manager,2023-07-03,INV-140405,Malawi,New Maria,0,0,1,1
+T1183,2023-07-03,Miller PLC,HR,Jennifer Gonzalez,4524.15,GBP,Wire,VP,2023-07-04,INV-727930,Slovakia (Slovak Republic),Gilbertborough,0,0,0,0
+T1184,2023-07-04,Davis LLC,HR,Dr. Jesse Khan,2810.95,GBP,Wire,CFO,2023-07-05,INV-183677,Libyan Arab Jamahiriya,Johnstonton,0,0,0,0
+T1185,2023-07-05,Avery Group,Sales,Elizabeth Wolf,1543.0,EUR,Wire,VP,2023-07-06,INV-673521,Mexico,Lake Stephanie,0,0,0,0
+T1186,2023-07-06,"Ballard, Henry and Campos",Operations,Jesse Rogers,7315.44,EUR,ACH,Manager,2023-07-07,INV-410943,Nauru,South Garyborough,0,0,0,0
+T1187,2023-07-07,Taylor PLC,Finance,Jeffrey Turner,9773.54,GBP,Wire,VP,2023-07-08,INV-334634,Barbados,East Randy,1,0,0,3
+T1188,2023-07-08,Davis and Sons,Finance,Julia Brown MD,1503.58,USD,Wire,VP,2023-07-09,INV-55599,Uruguay,West Charlestown,0,0,1,1
+T1189,2023-07-09,"Carter, Blake and Maxwell",IT,Stephanie Wilson,6407.42,EUR,Wire,Manager,2023-07-10,INV-226894,United Kingdom,Andersonberg,0,0,1,1
+T1190,2023-07-10,Russo LLC,HR,Richard Flynn,3373.39,GBP,Wire,VP,2023-07-11,INV-646877,Myanmar,Andreshire,0,0,0,0
+T1191,2023-07-11,Gutierrez LLC,Operations,Debra Harper,3782.19,GBP,Credit Card,Manager,2023-07-12,INV-289748,Guinea,North Antoniofort,0,0,0,0
+T1192,2023-07-12,"Gonzales, Jones and Moore",Sales,Eric Soto,3519.02,EUR,Wire,Manager,2023-07-13,INV-291058,Saint Kitts and Nevis,Lake Eric,0,0,0,0
+T1193,2023-07-13,Williams-Floyd,HR,Jessica Johns,2840.02,EUR,Credit Card,CFO,2023-07-14,INV-677020,Comoros,New Victoria,0,0,0,0
+T1194,2023-07-14,"Johnson, Rosario and Hamilton",Sales,Steven Gallagher,5121.3,EUR,ACH,Director,2023-07-15,INV-741049,Uganda,Port Crystal,0,0,0,0
+T1195,2023-07-15,"Martinez, Hebert and Gardner",IT,Elizabeth Porter,2922.62,USD,Check,Director,2023-07-16,INV-702794,United Arab Emirates,East Stephen,0,0,1,1
+T1196,2023-07-16,Avila-Hill,IT,Christian Mcmillan,5676.14,USD,Wire,VP,2023-07-17,INV-386331,Morocco,Matthewchester,0,0,1,1
+T1197,2023-07-17,Walton Ltd,Finance,William Sanders,4874.4,GBP,Check,VP,2023-07-18,INV-675903,Tokelau,Kristinaland,0,0,0,0
+T1198,2023-07-18,Joseph-Moore,Operations,Jeffrey Scott,4402.63,EUR,Check,CFO,2023-07-19,INV-809890,Ecuador,Middletonland,0,0,0,0
+T1199,2023-07-19,Smith Inc,Sales,Laura Sanchez,2731.09,USD,ACH,CFO,2023-07-20,INV-20205,New Caledonia,New Mary,0,0,0,0
+T1200,2023-07-20,"Conway, Hernandez and Campbell",HR,Jodi Owens,3558.07,EUR,Check,CFO,2023-07-21,INV-480420,Isle of Man,Lake Christinashire,0,0,0,0
+T1201,2023-07-21,"Garcia, Contreras and Mcdonald",IT,Corey Avery,6888.48,GBP,Credit Card,Manager,2023-07-22,INV-284388,Lithuania,South Wayne,0,0,0,0
+T1202,2023-07-22,Garcia-Orozco,Finance,Kathryn Gomez MD,6252.29,USD,Check,CFO,2023-07-23,INV-649406,Papua New Guinea,Anitamouth,0,0,1,1
+T1203,2023-07-23,Mills-King,Finance,Kelly Bautista,2556.11,USD,Check,CFO,2023-07-24,INV-457197,Costa Rica,West Debrafurt,0,0,1,1
+T1204,2023-07-24,Shaffer-Rodriguez,Sales,Dr. Anthony Kennedy,5248.33,USD,Check,VP,2023-07-25,INV-94286,Antarctica (the territory South of 60 deg S),Davidland,0,0,0,0
+T1205,2023-07-25,"Montgomery, Flores and Ruiz",IT,Gregory Alexander,6878.47,GBP,Wire,CFO,2023-07-26,INV-899611,Trinidad and Tobago,Saundersborough,0,0,0,0
+T1206,2023-07-26,Perez-Henry,Operations,Jennifer Mckee,826.49,EUR,Wire,Manager,2023-07-27,INV-882222,Slovakia (Slovak Republic),Lake Lindaside,0,0,0,0
+T1207,2023-07-27,Garcia-Hernandez,IT,Kevin Ramirez,6358.4,USD,Credit Card,Manager,2023-07-28,INV-536568,Reunion,Lake Katelynmouth,0,0,0,0
+T1208,2023-07-28,"Gonzalez, Walsh and Edwards",Sales,Cynthia Andrews,3343.44,GBP,Credit Card,VP,2023-07-29,INV-644301,Saudi Arabia,Orrport,0,0,0,0
+T1209,2023-07-29,Diaz Group,Sales,Mr. Michael Lynch,6426.5,EUR,Wire,CFO,2023-07-30,INV-419310,Namibia,North David,0,0,1,1
+T1210,2023-07-30,"Brown, Fisher and Anderson",IT,Michael Pierce,3091.85,GBP,Credit Card,CFO,2023-07-31,INV-503527,Uruguay,Darrellbury,0,0,1,1
+T1211,2023-07-31,"Kim, Lopez and Cruz",Sales,Zachary Rodriguez,487.79,EUR,Wire,Manager,2023-08-01,INV-396960,Myanmar,Jasonmouth,0,0,0,0
+T1212,2023-08-01,Werner-Scott,IT,Emily Owens,931.14,GBP,ACH,CFO,2023-08-02,INV-92429,Greenland,Lake Dwaynetown,0,0,0,0
+T1213,2023-08-02,Cook-Carter,HR,Brandon Weeks,5120.21,EUR,Check,CFO,2023-08-03,INV-442140,Fiji,East Christopher,0,0,0,0
+T1214,2023-08-03,"Mcdaniel, Prince and Green",IT,Christopher Barnes,5649.31,USD,Check,CFO,2023-08-04,INV-875432,Comoros,Hickston,0,0,0,0
+T1215,2023-08-04,Mays-Jackson,IT,George Martinez,2739.21,EUR,Credit Card,Director,2023-08-05,INV-358502,Guam,Stephenton,0,0,0,0
+T1216,2023-08-05,Tanner-Young,Sales,Danielle Nguyen,6596.48,GBP,Wire,VP,2023-08-06,INV-805212,Jamaica,Rodriguezmouth,0,0,1,1
+T1217,2023-08-06,Perry-Kennedy,Sales,Megan Nelson,846.2,GBP,Wire,Director,2023-08-07,INV-510641,Guinea-Bissau,Lewismouth,0,0,1,1
+T1218,2023-08-07,Richardson Group,Finance,William Shaffer,4834.8,EUR,Credit Card,VP,2023-08-08,INV-840667,Micronesia,Weissfurt,0,0,0,0
+T1219,2023-08-08,"Rodriguez, Ryan and Hayes",Finance,Krista Moreno,1972.46,USD,Wire,Manager,2023-08-09,INV-796271,Burundi,Lake Johnchester,1,0,0,3
+T1220,2023-08-09,Knight Group,HR,Bridget King,3370.41,USD,ACH,CFO,2023-08-10,INV-458354,New Caledonia,Fisherbury,0,0,0,0
+T1221,2023-08-10,Graves-Ross,Finance,Jamie Mcdonald,5118.5,EUR,Check,VP,2023-08-11,INV-907885,Burundi,Port Michaelfurt,0,0,0,0
+T1222,2023-08-11,Duke Ltd,IT,Hailey Wilson,2848.97,EUR,Credit Card,Director,2023-08-12,INV-617349,Haiti,Stephanieberg,0,0,0,0
+T1223,2023-08-12,Rios-Jackson,Sales,Kari Conner,4038.61,GBP,Credit Card,CFO,2023-08-13,INV-622870,Peru,Traceyburgh,1,0,1,4
+T1224,2023-08-13,"Wilson, Velazquez and Brown",Finance,Sara Jones,7515.73,USD,Wire,Manager,2023-08-14,INV-968758,Slovakia (Slovak Republic),Port Lori,0,0,1,1
+T1225,2023-08-14,Jefferson Ltd,Finance,Jamie Johnson,3557.77,EUR,Credit Card,VP,2023-08-15,INV-872376,Latvia,Burgessmouth,0,0,0,0
+T1226,2023-08-15,"King, Hobbs and Edwards",HR,Tyler Garcia,7089.23,USD,ACH,VP,2023-08-16,INV-261910,Georgia,Lake Laura,0,0,0,0
+T1227,2023-08-16,"Simon, Larsen and Strong",HR,Charles Key,2175.73,EUR,Wire,VP,2023-08-17,INV-872185,Kenya,Port Don,0,0,0,0
+T1228,2023-08-17,Anderson-Gibson,IT,Steven Gross,6324.51,EUR,Wire,CFO,2023-08-18,INV-23781,Guinea-Bissau,New Justin,0,0,0,0
+T1229,2023-08-18,Ramirez-Carson,Sales,Robert Smith,8603.92,USD,Wire,Director,2023-08-19,INV-381505,Kuwait,Jamiemouth,0,0,0,0
+T1230,2023-08-19,"Cuevas, Smith and Turner",HR,Nicholas Kennedy,-1179.11,EUR,Wire,Director,2023-08-20,INV-537556,Nigeria,Phillipsfort,1,0,1,4
+T1231,2023-08-20,Dudley-Massey,Finance,Barbara Bradley,3007.76,EUR,ACH,VP,2023-08-21,INV-7171,Anguilla,New Tammy,1,0,1,4
+T1232,2023-08-21,Fuller-Ward,Sales,Brian Vazquez,6442.68,GBP,Wire,Manager,2023-08-22,INV-990493,Antigua and Barbuda,Michelechester,0,0,0,0
+T1233,2023-08-22,Wilson-Silva,Sales,Angelica Fox,4492.39,EUR,Credit Card,Manager,2023-08-23,INV-730262,Nigeria,Brownberg,0,0,0,0
+T1234,2023-08-23,"Walker, Robinson and Walker",Finance,Shirley Padilla,5927.86,EUR,ACH,Director,2023-08-24,INV-426470,Georgia,Kentfort,0,0,0,0
+T1235,2023-08-24,Davis Group,HR,Jennifer Rodriguez,3490.04,EUR,Check,Manager,2023-08-25,INV-740353,Netherlands,Tonyborough,0,0,0,0
+T1236,2023-08-25,Pena-Wilkerson,Finance,Lisa Lawson,5216.47,GBP,Check,Director,2023-08-26,INV-7339,Kazakhstan,North Kimberly,0,0,0,0
+T1237,2023-08-26,Cruz Inc,Sales,Debra Black,4610.81,USD,Credit Card,VP,2023-08-27,INV-287588,Puerto Rico,Port Andreachester,0,0,1,1
+T1238,2023-08-27,"Rosales, Smith and Gutierrez",Operations,Jesse Jones,7919.46,GBP,Credit Card,Director,2023-08-28,INV-732110,Bosnia and Herzegovina,Port Todd,0,0,1,1
+T1239,2023-08-28,Nguyen and Sons,Operations,Rodney Cruz,5636.05,GBP,ACH,Director,2023-08-29,INV-593845,Djibouti,Donaldville,0,0,0,0
+T1240,2023-08-29,Rodriguez Ltd,IT,Trevor Hayes,5844.01,USD,Check,VP,2023-08-30,INV-184357,Seychelles,East Elaineland,0,0,0,0
+T1241,2023-08-30,Morrison Inc,Finance,Jessica Crawford,3970.31,GBP,Check,Manager,2023-08-31,INV-113500,Canada,Stanleyview,1,0,0,3
+T1242,2023-08-31,Lee-Martin,Finance,Bradley Bass,3780.98,USD,Check,Director,2023-09-01,INV-702786,Tokelau,New Amanda,0,0,0,0
+T1243,2023-09-01,Park-Mann,IT,Holly Miller,3918.6,GBP,Check,Director,2023-09-02,INV-696807,Oman,Pattersonfurt,0,0,0,0
+T1244,2023-09-02,"Fleming, Hanson and Combs",IT,Jared Petty,5986.13,USD,Check,VP,2023-09-03,INV-290905,Mayotte,Lloydhaven,1,0,1,4
+T1245,2023-09-03,"Porter, Lynch and Gibson",IT,Melissa Norman,3947.54,EUR,Wire,Manager,2023-09-04,INV-937407,Burkina Faso,East Jennifer,0,0,1,1
+T1246,2023-09-04,Gonzalez Ltd,Sales,Bradley Garcia,5724.44,GBP,Credit Card,Director,2023-09-05,INV-440243,Nicaragua,Bellport,0,0,0,0
+T1247,2023-09-05,Jackson-Neal,Finance,Daniel Wilson,10188.5,GBP,Wire,VP,2023-09-06,INV-645331,Suriname,Joneschester,1,0,0,3
+T1248,2023-09-06,"Adkins, Gilbert and Garcia",Sales,John Ryan,7177.81,GBP,Check,Director,2023-09-07,INV-393127,Italy,South Matthewmouth,0,0,0,0
+T1249,2023-09-07,Mccullough PLC,IT,Elizabeth Cook,4184.94,GBP,ACH,CFO,2023-09-08,INV-173967,Cook Islands,North Jack,0,0,0,0
+T1250,2023-09-08,"Lewis, Lee and Miller",Finance,Todd Summers,8003.03,EUR,ACH,VP,2023-09-09,INV-953658,Namibia,West Patrickview,1,0,0,3
+T1251,2023-09-09,Edwards-Ortega,Sales,Jeffrey Wiggins,3979.81,GBP,Check,Manager,2023-09-10,INV-157394,Italy,Barberburgh,1,0,1,4
+T1252,2023-09-10,Moody Inc,Sales,Jeanette Alvarez,-95.31,EUR,Check,Manager,2023-09-11,INV-901482,Pakistan,East Matthewfurt,1,0,1,4
+T1253,2023-09-11,"Sanchez, Moore and Knight",IT,Joshua Werner,2479.78,EUR,ACH,Manager,2023-09-12,INV-194539,Kiribati,North Chelseabury,0,0,0,0
+T1254,2023-09-12,"Medina, Davis and Middleton",Finance,Ana Walker,323.02,EUR,Wire,Manager,2023-09-13,INV-940078,Colombia,South Amanda,0,0,0,0
+T1255,2023-09-13,"Sanders, Graham and Johnson",IT,Charles Lee,4121.22,EUR,Wire,Director,2023-09-14,INV-336007,Mauritania,Lake Christopherton,0,0,0,0
+T1256,2023-09-14,Hardy-Perez,Finance,Stephanie Luna,5046.05,USD,Check,Director,2023-09-15,INV-582014,Sao Tome and Principe,New Christineville,1,0,0,3
+T1257,2023-09-15,Cox Ltd,Operations,Scott Simmons,9191.09,USD,Wire,Manager,2023-09-16,INV-922078,Greenland,Larrystad,0,0,0,0
+T1258,2023-09-16,Torres Ltd,HR,Jimmy Morales,5817.32,GBP,ACH,Manager,2023-09-17,INV-886081,Mozambique,Gwendolynland,0,0,1,1
+T1259,2023-09-17,"May, Schmidt and Marquez",HR,Elizabeth Murray,4452.25,USD,Wire,Manager,2023-09-18,INV-774448,Benin,New Matthew,0,0,1,1
+T1260,2023-09-18,Morris-Miller,HR,Krystal Wilson,7073.51,USD,Check,Director,2023-09-19,INV-733658,Oman,Robertfort,0,0,0,0
+T1261,2023-09-19,"Logan, Sanchez and Jones",IT,Melissa Henry,-527.84,GBP,ACH,Manager,2023-09-20,INV-624144,Bahamas,New Lindafurt,1,0,0,3
+T1262,2023-09-20,Alvarez-Yang,Operations,Lance Taylor,5589.04,GBP,Wire,Manager,2023-09-21,INV-66011,Timor-Leste,New Stacey,0,0,0,0
+T1263,2023-09-21,Mack LLC,Finance,Colleen Barker,6927.16,GBP,Credit Card,CFO,2023-09-22,INV-506684,Yemen,Michelletown,0,0,0,0
+T1264,2023-09-22,Hoover PLC,Sales,Kellie Griffin,1303.53,USD,ACH,CFO,2023-09-23,INV-939725,Yemen,Port Timothychester,0,0,0,0
+T1265,2023-09-23,"Escobar, Henry and George",Finance,Jennifer Barber,7859.39,USD,ACH,Manager,2023-09-24,INV-547868,Mozambique,New Paige,0,0,1,1
+T1266,2023-09-24,Browning Ltd,Sales,Megan Wood,5846.24,GBP,Credit Card,VP,2023-09-25,INV-930117,New Zealand,Johnville,0,0,1,1
+T1267,2023-09-25,Owen and Sons,Finance,Steven Ferguson,3961.78,EUR,Credit Card,Manager,2023-09-26,INV-115822,Syrian Arab Republic,West Gregoryport,1,0,0,3
+T1268,2023-09-26,Arnold-Mendoza,Operations,Sara Camacho,6581.95,GBP,ACH,CFO,2023-09-27,INV-325330,Guadeloupe,Port Jenniferfort,0,0,0,0
+T1269,2023-09-27,"Brooks, Barnes and Smith",Sales,Monica Howard,10676.73,EUR,Credit Card,VP,2023-09-28,INV-994004,Iran,Kaiserside,1,0,0,3
+T1270,2023-09-28,Riley-Edwards,IT,Kathy Gordon,5454.67,EUR,Check,VP,2023-09-29,INV-787534,Puerto Rico,South Casey,0,0,0,0
+T1271,2023-09-29,"Lopez, Gonzalez and Stewart",Finance,Stephanie Morris,5620.55,GBP,Check,Manager,2023-09-30,INV-97663,Cote d'Ivoire,Gaychester,0,0,0,0
+T1272,2023-09-30,Williams Ltd,Finance,Jamie Garcia,3851.6,GBP,Check,CFO,2023-10-01,INV-20921,Senegal,West Victoria,0,0,1,1
+T1273,2023-10-01,Payne PLC,Sales,Jason Villarreal,2875.39,GBP,ACH,CFO,2023-10-02,INV-228273,Uzbekistan,West Justinmouth,0,0,1,1
+T1274,2023-10-02,"Long, Williams and Patel",IT,Justin Curtis,7075.84,USD,Credit Card,VP,2023-10-03,INV-914731,Macao,Jasonland,0,0,0,0
+T1275,2023-10-03,Johnson-Johnson,IT,Stacey Simmons,2859.79,EUR,Credit Card,Manager,2023-10-04,INV-229930,Malaysia,South Samuel,0,0,0,0
+T1276,2023-10-04,Campos PLC,Operations,Sean Johnson,5178.92,USD,Wire,Director,2023-10-05,INV-569245,Lesotho,East Michael,0,0,0,0
+T1277,2023-10-05,Galvan LLC,IT,Amber Smith,3805.86,USD,Wire,Director,2023-10-06,INV-113577,Egypt,Port Jasonmouth,0,0,0,0
+T1278,2023-10-06,"Duncan, Contreras and Valencia",IT,Jessica Mullins,6197.45,GBP,Credit Card,CFO,2023-10-07,INV-945424,Liberia,New Dominic,0,0,0,0
+T1279,2023-10-07,Joseph and Sons,IT,Max Fisher,5834.16,USD,Credit Card,Director,2023-10-08,INV-833847,Myanmar,Waltonberg,0,0,1,1
+T1280,2023-10-08,Wood Group,HR,Danny Smith,7593.85,GBP,Credit Card,CFO,2023-10-09,INV-169679,Pitcairn Islands,East Lauren,0,0,1,1
+T1281,2023-10-09,"Johnson, Watson and Santiago",Operations,Emily Medina,3724.96,EUR,ACH,CFO,2023-10-10,INV-855553,Bhutan,Holmeshaven,0,0,0,0
+T1282,2023-10-10,Cohen Ltd,Finance,Elizabeth Richards,4325.31,GBP,Credit Card,CFO,2023-10-11,INV-189344,Thailand,West Ashley,0,0,0,0
+T1283,2023-10-11,"Davis, Herrera and Gonzalez",Sales,Edward Lewis,2553.09,USD,Wire,Director,2023-10-12,INV-312666,Suriname,Whiteland,0,0,0,0
+T1284,2023-10-12,Cruz Ltd,Finance,James Snyder,3889.27,USD,ACH,CFO,2023-10-13,INV-365778,Macao,Port Alexander,0,0,0,0
+T1285,2023-10-13,Keith Ltd,Operations,Annette Miller,5943.25,GBP,Credit Card,VP,2023-10-14,INV-598999,Gabon,Brennanton,0,0,0,0
+T1286,2023-10-14,Cruz-Romero,Sales,Elizabeth Oconnell,6892.47,GBP,Wire,Manager,2023-10-15,INV-986142,Gabon,East David,0,0,1,1
+T1287,2023-10-15,"Garcia, Moore and Flowers",Operations,Eileen Baker,2694.59,USD,ACH,Manager,2023-10-16,INV-722796,Gibraltar,North Alexandramouth,0,0,1,1
+T1288,2023-10-16,Walton-Levy,IT,Natalie Wolf,7174.01,EUR,Credit Card,CFO,2023-10-17,INV-696993,Italy,North Victormouth,0,0,0,0
+T1289,2023-10-17,Parker-Cardenas,Sales,Adam Jennings,8389.09,EUR,Credit Card,Manager,2023-10-18,INV-188046,Norway,East Richard,0,0,0,0
+T1290,2023-10-18,Rivera-Benson,IT,Amanda Crosby,6033.59,GBP,Credit Card,Director,2023-10-19,INV-706629,Mauritania,Josephville,1,0,0,3
+T1291,2023-10-19,Monroe-Perez,Finance,Jon Pratt,9691.99,EUR,ACH,Director,2023-10-20,INV-496483,Ghana,West Matthewshire,1,0,0,3
+T1292,2023-10-20,Potter-Kirk,Finance,Amber Richmond,3065.53,USD,Wire,Manager,2023-10-21,INV-299818,New Caledonia,Wendymouth,0,0,0,0
+T1293,2023-10-21,Reed-Sampson,Sales,Bob Stone,1888.36,GBP,Wire,Director,2023-10-22,INV-726599,Saint Kitts and Nevis,New Cynthiastad,0,0,1,1
+T1294,2023-10-22,Petty-Smith,Sales,Richard Pitts,553.2,USD,Check,Manager,2023-10-23,INV-964759,Uganda,East Ashley,0,0,1,1
+T1295,2023-10-23,Bell Ltd,Operations,Benjamin Banks,8740.11,USD,Credit Card,Manager,2023-10-24,INV-912343,Malaysia,Patriciaburgh,0,0,0,0
+T1296,2023-10-24,Hensley-Curry,Operations,Deborah Lucas,6635.91,EUR,Check,Manager,2023-10-25,INV-982497,South Georgia and the South Sandwich Islands,West Nathanielbury,0,0,0,0
+T1297,2023-10-25,Mclean and Sons,IT,Brooke Marquez,4861.04,GBP,Check,CFO,2023-10-26,INV-61000,Belgium,South Franklin,0,0,0,0
+T1298,2023-10-26,"Stephens, Jennings and Cisneros",Sales,Jacob Giles MD,5699.92,GBP,Wire,Manager,2023-10-27,INV-780369,Tajikistan,West Derek,0,0,0,0
+T1299,2023-10-27,Acosta-Young,Finance,Penny Davis,2186.28,EUR,ACH,CFO,2023-10-28,INV-624998,Jamaica,Parkland,0,0,0,0
+T1300,2023-10-28,Coleman and Sons,Operations,John Prince,11114.38,USD,ACH,Manager,2023-10-29,INV-393214,Qatar,Sotoberg,1,0,1,4
+T1301,2023-10-29,Ramos Inc,Operations,Mathew Ayala,5323.05,USD,Wire,Manager,2023-10-30,INV-952640,Madagascar,Rosalesborough,0,0,1,1
+T1302,2023-10-30,"Myers, Jones and Riley",Finance,William Robinson,5273.49,USD,ACH,Manager,2023-10-31,INV-99191,Monaco,Taraland,0,0,0,0
+T1303,2023-10-31,Baker-Nguyen,Operations,Thomas Castillo,6814.42,USD,Check,Director,2023-11-01,INV-171675,Timor-Leste,North Bryan,0,0,0,0
+T1304,2023-11-01,Sanders-English,IT,Andrew Garcia,6202.52,GBP,Credit Card,CFO,2023-11-02,INV-504380,Lesotho,Garrettmouth,0,0,0,0
+T1305,2023-11-02,Strong-Smith,Sales,Anthony Vasquez,5559.71,GBP,Wire,CFO,2023-11-03,INV-950885,Czech Republic,Marissafurt,0,0,0,0
+T1306,2023-11-03,"Charles, Richard and Miller",Finance,Dalton Powell,3023.81,EUR,Credit Card,Manager,2023-11-04,INV-465036,Israel,West Troyside,1,0,0,3
+T1307,2023-11-04,Tucker LLC,Sales,Michael Williamson,6178.67,EUR,ACH,Manager,2023-11-05,INV-327895,Guadeloupe,Perezfort,0,0,1,1
+T1308,2023-11-05,Perez LLC,Operations,Glenn Tran,9705.06,GBP,Credit Card,Director,2023-11-06,INV-41621,Korea,Port Karenstad,1,0,1,4
+T1309,2023-11-06,Byrd-Castaneda,Operations,Paul Rhodes,8363.55,GBP,ACH,Director,2023-11-07,INV-493135,Singapore,South Daniel,0,0,0,0
+T1310,2023-11-07,"Taylor, Hernandez and Cook",Finance,Michelle Hess,8982.97,USD,ACH,Director,2023-11-08,INV-719963,Martinique,New Leeland,1,0,0,3
+T1311,2023-11-08,"Henry, Richards and Watson",IT,Willie Carpenter,3721.96,USD,Check,CFO,2023-11-09,INV-35897,Peru,Harrishaven,0,0,0,0
+T1312,2023-11-09,Payne Group,HR,Chad Marsh,2525.99,EUR,ACH,CFO,2023-11-10,INV-574400,Martinique,Elizabethbury,0,0,0,0
+T1313,2023-11-10,Brown-Sanchez,Finance,Kimberly Martin,4685.53,GBP,Check,CFO,2023-11-11,INV-156331,Comoros,West Joseph,0,0,0,0
+T1314,2023-11-11,Robbins-Cook,HR,Teresa Figueroa,5139.31,EUR,Check,Manager,2023-11-12,INV-382782,United Arab Emirates,South Blakebury,0,0,1,1
+T1315,2023-11-12,Berry Ltd,HR,Rhonda Cunningham,7735.48,GBP,Check,CFO,2023-11-13,INV-945318,Myanmar,North Brenda,0,0,1,1
+T1316,2023-11-13,Donovan Group,IT,Megan Hamilton,768.84,USD,Wire,VP,2023-11-14,INV-464537,Guadeloupe,Roberttown,0,0,0,0
+T1317,2023-11-14,"Spence, Blevins and Reid",HR,Christopher Carney,8823.88,EUR,Wire,VP,2023-11-15,INV-345988,Lithuania,Port Austin,0,0,0,0
+T1318,2023-11-15,"Hahn, Nguyen and Rogers",HR,Pam Davis,4604.98,EUR,ACH,Director,2023-11-16,INV-732204,Greece,Angelicahaven,0,0,0,0
+T1319,2023-11-16,"Woods, Lucas and Glenn",IT,Anita Mejia,3932.8,GBP,Check,CFO,2023-11-17,INV-407467,United States Virgin Islands,Barberborough,0,0,0,0
+T1320,2023-11-17,Davis-Johnson,HR,Wendy Davis,2469.74,USD,Wire,VP,2023-11-18,INV-824404,Namibia,Miguelshire,0,0,0,0
+T1321,2023-11-18,Barrett-Brooks,HR,Rebecca Norton,862.86,EUR,Check,Director,2023-11-19,INV-687888,Singapore,Smithmouth,0,0,1,1
+T1322,2023-11-19,Blackburn-Jackson,HR,Desiree Reyes,7057.93,USD,Credit Card,CFO,2023-11-20,INV-595434,Chad,West Stephanie,0,0,1,1
+T1323,2023-11-20,"Johnson, Lambert and Fowler",Finance,Breanna Flores,5183.29,EUR,Credit Card,Manager,2023-11-21,INV-84192,British Indian Ocean Territory (Chagos Archipelago),West Rachel,0,0,0,0
+T1324,2023-11-21,"Austin, Harper and Lucas",Finance,Kelly Williams,1775.1,USD,Credit Card,VP,2023-11-22,INV-331599,Ghana,East Christinashire,0,0,0,0
+T1325,2023-11-22,"Johnson, Santiago and Drake",Finance,Andre Campbell,1762.3,GBP,ACH,Manager,2023-11-23,INV-170653,Congo,East Melissa,0,0,0,0
+T1326,2023-11-23,Potter PLC,IT,Mark Tran,4160.54,EUR,Check,CFO,2023-11-24,INV-256871,Guernsey,Whiteville,0,0,0,0
+T1327,2023-11-24,Thomas Ltd,Operations,Dwayne Moyer,9172.55,EUR,Credit Card,VP,2023-11-25,INV-786408,Denmark,Davidmouth,0,0,0,0
+T1328,2023-11-25,"Valentine, Lee and Sullivan",HR,Michael Hill,4351.02,USD,Wire,CFO,2023-11-26,INV-605003,Costa Rica,Lake Michael,0,0,1,1
+T1329,2023-11-26,"Gonzalez, Campbell and Kane",HR,Michael Rogers,1242.14,USD,Credit Card,Manager,2023-11-27,INV-493677,Morocco,East Suzanne,0,0,1,1
+T1330,2023-11-27,Hayden LLC,IT,Duane Cox,4385.64,EUR,Credit Card,VP,2023-11-28,INV-934369,Norfolk Island,West Jasonberg,0,0,0,0
+T1331,2023-11-28,Wheeler-Hernandez,HR,Robert Ibarra,4318.19,GBP,Credit Card,Manager,2023-11-29,INV-597739,Macedonia,New Jamesmouth,0,0,0,0
+T1332,2023-11-29,"Richardson, Evans and Mitchell",Finance,Lisa Villanueva,-1742.22,USD,ACH,CFO,2023-11-30,INV-364977,Bhutan,East Heidiview,1,0,0,3
+T1333,2023-11-30,"Peters, Kennedy and Williams",Operations,Katrina Perry,4864.26,USD,Wire,CFO,2023-12-01,INV-620102,Hungary,Port Keithside,0,0,0,0
+T1334,2023-12-01,"Russell, Elliott and Smith",Sales,Kevin Spencer,4422.66,USD,Check,Manager,2023-12-02,INV-541528,Turks and Caicos Islands,Lopezshire,0,0,0,0
+T1335,2023-12-02,"Moody, Braun and Cain",HR,Elijah Benson,6740.52,EUR,Wire,VP,2023-12-03,INV-729704,United Arab Emirates,Alexandraport,0,0,1,1
+T1336,2023-12-03,Wright-Holt,Finance,Amber Rubio,9622.39,EUR,Check,Manager,2023-12-04,INV-884930,Guatemala,South Sean,1,0,1,4
+T1337,2023-12-04,Rivas LLC,Sales,Kaitlyn Medina,7816.41,EUR,ACH,CFO,2023-12-05,INV-111560,Reunion,New Denise,0,0,0,0
+T1338,2023-12-05,Hahn-Sanchez,Operations,Shelby Valentine,4327.78,EUR,ACH,Manager,2023-12-06,INV-979758,Faroe Islands,Charlesville,0,0,0,0
+T1339,2023-12-06,Fowler LLC,Sales,Brenda Flynn,2233.69,GBP,ACH,CFO,2023-12-07,INV-263898,Papua New Guinea,North Kathleen,0,0,0,0
+T1340,2023-12-07,Guerrero-Edwards,Finance,Clayton Mckinney,11433.4,GBP,ACH,Manager,2023-12-08,INV-374085,Saint Kitts and Nevis,South Janefurt,1,0,0,3
+T1341,2023-12-08,Little-Lara,Sales,Wayne Martinez,5148.05,EUR,Check,VP,2023-12-09,INV-992585,Panama,Davidberg,0,0,0,0
+T1342,2023-12-09,Price-Abbott,IT,Frank Anderson,5034.82,GBP,Credit Card,VP,2023-12-10,INV-545955,Saint Kitts and Nevis,Ortizmouth,1,0,1,4
+T1343,2023-12-10,Jordan-Thomas,Sales,Stephanie Ryan DVM,4939.69,USD,Check,Manager,2023-12-11,INV-847031,Sierra Leone,Theresaland,0,0,1,1
+T1344,2023-12-11,Williams Ltd,HR,Jacob Avila,5495.21,USD,Wire,Manager,2023-12-12,INV-847020,Solomon Islands,Hillbury,0,0,0,0
+T1345,2023-12-12,"Guzman, Gates and Haley",HR,Thomas Mcdaniel,4639.1,USD,ACH,VP,2023-12-13,INV-839240,Anguilla,Samanthaport,0,0,0,0
+T1346,2023-12-13,Johnson PLC,IT,Rebecca Pace,3565.84,EUR,ACH,CFO,2023-12-14,INV-276163,Singapore,New Kariville,0,0,0,0
+T1347,2023-12-14,Stewart-Vasquez,Finance,Dawn Cooper,3632.85,USD,Wire,VP,2023-12-15,INV-268162,Christmas Island,Lake Anna,0,0,0,0
+T1348,2023-12-15,Johnson-Tucker,HR,Lisa Cruz,4918.12,GBP,Check,CFO,2023-12-16,INV-427240,Syrian Arab Republic,Lake Sheila,0,0,0,0
+T1349,2023-12-16,Villarreal-Morrison,Operations,William Perkins,3641.44,EUR,Credit Card,Manager,2023-12-17,INV-788613,Jamaica,Lake Deniseborough,0,0,1,1
+T1350,2023-12-17,"Williams, Malone and Berger",HR,Eric Young,3217.89,GBP,Credit Card,Manager,2023-12-18,INV-821592,Bouvet Island (Bouvetoya),West Kimberlyfurt,0,0,1,1
+T1351,2023-12-18,Everett-Cox,HR,Mary Hicks,5266.08,USD,Wire,CFO,2023-12-19,INV-580866,Ethiopia,Lake Jenniferfort,0,0,0,0
+T1352,2023-12-19,Davis-Blackwell,Finance,Heidi Barnes,4362.56,USD,Credit Card,Manager,2023-12-20,INV-51812,Niue,Amandaview,0,0,0,0
+T1353,2023-12-20,Salazar and Sons,Sales,Maria Chandler,8759.98,USD,Check,CFO,2023-12-21,INV-451102,Paraguay,North Renee,0,0,0,0
+T1354,2023-12-21,Steele-Harris,HR,Andrea Smith,-1627.42,EUR,Check,Director,2023-12-22,INV-577332,Zimbabwe,Nicholstown,1,0,0,3
+T1355,2023-12-22,Rodriguez Inc,IT,Edward Frank,7728.77,GBP,Wire,VP,2023-12-23,INV-937504,Namibia,Juliafort,0,0,0,0
+T1356,2023-12-23,Nelson and Sons,Sales,Laura Jones,8115.21,EUR,Check,Director,2023-12-24,INV-868461,Mongolia,Collinsport,0,0,1,1
+T1357,2023-12-24,"Morgan, Cervantes and Harris",Operations,Holly Rowland,-183.48,EUR,ACH,CFO,2023-12-25,INV-980471,Kuwait,West Meganstad,1,0,1,4
+T1358,2023-12-25,"Peterson, Hill and Johnson",Finance,Beverly Wilson,4143.28,USD,Wire,VP,2023-12-26,INV-613745,Finland,North Racheltown,0,0,0,0
+T1359,2023-12-26,Brown-Griffin,Operations,Christian Chen,4071.4,EUR,Check,CFO,2023-12-27,INV-342497,Mauritania,Markfort,0,0,0,0
+T1360,2023-12-27,Jackson-Barnes,Sales,Michelle Becker,1481.22,EUR,Wire,VP,2023-12-28,INV-143315,Philippines,Port Amy,0,0,0,0
+T1361,2023-12-28,"Lee, Davidson and Gibson",Sales,Charles Alvarez,3055.46,USD,Credit Card,VP,2023-12-29,INV-107665,France,East Diana,0,0,0,0
+T1362,2023-12-29,Cochran LLC,Sales,Cathy Bridges,2223.56,EUR,Check,VP,2023-12-30,INV-751038,Kuwait,South Stephaniechester,0,0,0,0
+T1363,2023-12-30,Howe-Spencer,Operations,Benjamin Summers,9380.68,USD,ACH,VP,2023-12-31,INV-432051,Guadeloupe,New Jasmine,0,0,1,1
+T1364,2023-12-31,"Hall, Bishop and Key",Sales,Lisa Rose,7339.2,USD,Check,CFO,2024-01-01,INV-643492,French Southern Territories,South Adam,0,0,1,1
+T1365,2024-01-01,"Evans, Mercado and Ellis",Operations,Donna Howell,8178.89,USD,Wire,VP,2024-01-02,INV-571128,Eritrea,Erikland,0,0,0,0
+T1366,2024-01-02,Fisher PLC,Sales,Nicholas Harrison,6804.18,USD,Wire,VP,2024-01-03,INV-474907,Ghana,South Rachelchester,0,0,0,0
+T1367,2024-01-03,"Terrell, Bailey and George",IT,Melissa Burton,2177.37,EUR,Check,Director,2024-01-04,INV-161676,Korea,North Chadfurt,0,0,0,0
+T1368,2024-01-04,"Phillips, Roberson and Velasquez",Sales,Michael Hopkins,3688.7,USD,ACH,Manager,2024-01-05,INV-637157,Slovakia (Slovak Republic),West David,0,0,0,0
+T1369,2024-01-05,Washington Group,Operations,Travis Black,6223.44,USD,ACH,Manager,2024-01-06,INV-932603,Guam,Aarontown,0,0,0,0
+T1370,2024-01-06,Powers PLC,HR,Rickey Taylor,1944.68,EUR,ACH,Director,2024-01-07,INV-778183,Nicaragua,Jenniferport,0,0,1,1
+T1371,2024-01-07,Vasquez-Wells,Sales,Christopher Williams,6782.5,EUR,Wire,Director,2024-01-08,INV-440135,Aruba,Clintonside,0,0,1,1
+T1372,2024-01-08,"Carter, Mays and Davis",HR,Robert Clark,4399.19,GBP,Check,CFO,2024-01-09,INV-862188,France,Gutierrezport,0,0,0,0
+T1373,2024-01-09,"Lamb, Dillon and Scott",IT,Angela Brown,4062.95,EUR,Credit Card,CFO,2024-01-10,INV-350318,Heard Island and McDonald Islands,South Dorothystad,0,0,0,0
+T1374,2024-01-10,Chambers PLC,Finance,Willie Velasquez,6777.4,EUR,Wire,CFO,2024-01-11,INV-538460,Georgia,Port Lisaside,0,0,0,0
+T1375,2024-01-11,Moore Group,IT,Alicia Gibson,6110.66,GBP,ACH,Director,2024-01-12,INV-469275,Switzerland,North Jenniferview,0,0,0,0
+T1376,2024-01-12,"Hess, Fletcher and Decker",Sales,Kristin Bradley,4097.58,EUR,Check,Director,2024-01-13,INV-969183,Morocco,Baileyberg,0,0,0,0
+T1377,2024-01-13,Berry Inc,HR,Christian Davis,7898.32,EUR,ACH,VP,2024-01-14,INV-252880,Burkina Faso,Molinamouth,0,0,1,1
+T1378,2024-01-14,Page-Moore,HR,Joseph Maldonado,2297.34,EUR,Credit Card,CFO,2024-01-15,INV-133522,Holy See (Vatican City State),Davidchester,0,0,1,1
+T1379,2024-01-15,"Clark, Taylor and Trujillo",Operations,Elizabeth Morris,6539.84,EUR,ACH,CFO,2024-01-16,INV-164733,Guinea,Anitaview,0,0,0,0
+T1380,2024-01-16,"Lucas, Washington and Ball",HR,Jennifer Watson,6482.75,GBP,ACH,CFO,2024-01-17,INV-935918,Antarctica (the territory South of 60 deg S),Lake Mikaylafort,0,0,0,0
+T1381,2024-01-17,Hall-Powell,Operations,Brian Morales,4226.13,EUR,Credit Card,Manager,2024-01-18,INV-855809,Falkland Islands (Malvinas),Reyesstad,0,0,0,0
+T1382,2024-01-18,Gill-Hartman,Finance,Brandon Ford,5815.33,EUR,Check,VP,2024-01-19,INV-3291,Uruguay,East Leonard,0,0,0,0
+T1383,2024-01-19,Vargas Group,Sales,Marcus Lopez,1872.22,GBP,Wire,CFO,2024-01-20,INV-332876,Philippines,Lake Cheyenne,0,0,0,0
+T1384,2024-01-20,"Patton, Gardner and Mejia",Operations,Ashley Martinez,7310.07,USD,Check,CFO,2024-01-21,INV-426131,Finland,Lake Tanya,0,0,1,1
+T1385,2024-01-21,Cook PLC,Finance,Thomas Singh,4537.74,GBP,Credit Card,CFO,2024-01-22,INV-125070,Afghanistan,Gregoryberg,0,0,1,1
+T1386,2024-01-22,"Cisneros, Olsen and Erickson",HR,Edwin Daugherty,3693.19,USD,ACH,Manager,2024-01-23,INV-937677,Liechtenstein,East Dawnstad,0,0,0,0
+T1387,2024-01-23,"Floyd, Ellison and Campbell",HR,Terry Wood,7622.52,GBP,Check,Manager,2024-01-24,INV-526674,Swaziland,Ashleychester,0,0,0,0
+T1388,2024-01-24,Green-Pacheco,Finance,Cody Cummings,3239.14,GBP,Wire,Director,2024-01-25,INV-92908,Turks and Caicos Islands,Lake Douglastown,0,0,0,0
+T1389,2024-01-25,Vaughn-Ramos,HR,Brianna Woodward,1478.85,EUR,Credit Card,VP,2024-01-26,INV-830739,Kiribati,North Ryantown,0,0,0,0
+T1390,2024-01-26,Stephens-Anderson,Finance,Misty Mcknight,1108.43,USD,Check,Director,2024-01-27,INV-705575,Kuwait,Port Renee,0,0,0,0
+T1391,2024-01-27,Fernandez LLC,Operations,Julia Lawson,6515.02,EUR,Wire,VP,2024-01-28,INV-376556,Mauritania,North Alexisville,0,0,1,1
+T1392,2024-01-28,"Sampson, Ramsey and Wells",Operations,Jesse Salazar,1798.93,USD,Credit Card,Manager,2024-01-29,INV-54383,Turks and Caicos Islands,Lopezport,0,0,1,1
+T1393,2024-01-29,Bryant-Dawson,Finance,Elizabeth Gonzalez,9386.99,GBP,Wire,CFO,2024-01-30,INV-205807,Jordan,Williamshaven,0,0,0,0
+T1394,2024-01-30,Avila Inc,Operations,Christian Flores,-204.82,GBP,Credit Card,Director,2024-01-31,INV-840572,Mali,Lake Elizabethfort,1,0,0,3
+T1395,2024-01-31,Martin-Richards,Operations,Rhonda Richardson,9241.14,USD,ACH,CFO,2024-02-01,INV-2997,Andorra,Stevenschester,0,0,0,0
+T1396,2024-02-01,Williams PLC,Operations,William Gordon,5527.54,EUR,Check,Director,2024-02-02,INV-808390,Anguilla,Port William,0,0,0,0
+T1397,2024-02-02,Castro-Alvarado,IT,Katherine Bates PhD,4758.22,EUR,Wire,Manager,2024-02-03,INV-547306,United Arab Emirates,Reedtown,0,0,0,0
+T1398,2024-02-03,"Wilcox, Moon and Montgomery",Sales,Monica Long,3637.7,EUR,Credit Card,Manager,2024-02-04,INV-519432,India,East Ronaldmouth,0,0,1,1
+T1399,2024-02-04,"Gutierrez, Hale and Donaldson",HR,Kelsey Gomez,5997.84,EUR,Wire,Manager,2024-02-05,INV-535392,Nicaragua,South Jacob,1,0,1,4
+T1400,2024-02-05,"Myers, Hawkins and Aguilar",IT,Jennifer Ramirez,4905.91,GBP,Wire,Director,2024-02-06,INV-884213,Central African Republic,Vickietown,0,0,0,0
+T1401,2024-02-06,Morgan-Pierce,Operations,Anthony Valenzuela,7758.25,GBP,Check,VP,2024-02-07,INV-713390,Cameroon,Christinefort,0,0,0,0
+T1402,2024-02-07,Miranda Inc,Finance,Mark Smith,5285.57,GBP,ACH,Director,2024-02-08,INV-67918,Pakistan,East Davidview,0,0,0,0
+T1403,2024-02-08,Schmidt-Nelson,Operations,Evan Lewis,5375.75,GBP,Wire,VP,2024-02-09,INV-786867,Colombia,Evanschester,0,0,0,0
+T1404,2024-02-09,Price Ltd,Sales,Carly Kramer,4090.97,GBP,Credit Card,Director,2024-02-10,INV-840107,Albania,Larryburgh,0,0,0,0
+T1405,2024-02-10,Porter PLC,Operations,Angela Rivera,4857.64,EUR,Credit Card,Director,2024-02-11,INV-13692,American Samoa,North Becky,0,0,1,1
+T1406,2024-02-11,"Campbell, Williams and Mills",Finance,Robert Richardson,5769.5,EUR,ACH,Manager,2024-02-12,INV-383867,Myanmar,West Julie,0,0,1,1
+T1407,2024-02-12,Hansen Inc,Sales,Crystal Frazier,724.58,EUR,Credit Card,CFO,2024-02-13,INV-959679,Croatia,Thomasborough,0,0,0,0
+T1408,2024-02-13,"Yang, Anderson and Barnes",Operations,Heather Clark DDS,1629.54,EUR,ACH,CFO,2024-02-14,INV-672760,Madagascar,Johnnyside,0,0,0,0
+T1409,2024-02-14,Cooper-Chan,Sales,Michael Howell,6858.16,GBP,Credit Card,VP,2024-02-15,INV-85502,Marshall Islands,South Thomas,0,0,0,0
+T1410,2024-02-15,Finley and Sons,HR,Karen Stevens,5427.16,GBP,Check,CFO,2024-02-16,INV-137741,Kenya,Reyeschester,0,0,0,0
+T1411,2024-02-16,"Anderson, Park and Richardson",HR,Sheena Gutierrez,4540.04,GBP,Wire,Director,2024-02-17,INV-761681,Slovakia (Slovak Republic),Michellechester,0,0,0,0
+T1412,2024-02-17,"Vaughn, Snyder and Jackson",Operations,Stephanie Melendez,5046.08,USD,Check,Director,2024-02-18,INV-975603,Timor-Leste,Port Madison,1,0,1,4
+T1413,2024-02-18,Carpenter and Sons,Sales,Angela Melendez,5868.95,EUR,Wire,Manager,2024-02-19,INV-529268,Cayman Islands,North Tonyamouth,0,0,1,1
+T1414,2024-02-19,"Richardson, Garza and Cook",Finance,Carolyn Richards,3650.6,EUR,Wire,Manager,2024-02-20,INV-751942,South Africa,New Danielmouth,0,0,0,0
+T1415,2024-02-20,Pitts PLC,Operations,Adam Buck,3054.24,GBP,Wire,CFO,2024-02-21,INV-540572,Mauritius,West Matthew,0,0,0,0
+T1416,2024-02-21,Jones-Hopkins,HR,Jenny Jones,5489.61,EUR,Check,VP,2024-02-22,INV-760432,Gabon,West Daniellemouth,0,0,0,0
+T1417,2024-02-22,Morales Ltd,HR,Mary Lee,2554.07,EUR,Wire,CFO,2024-02-23,INV-473907,Germany,East Michellefort,0,0,0,0
+T1418,2024-02-23,"Brown, Hardy and Garcia",Operations,Karen Brooks,6020.63,GBP,Check,CFO,2024-02-24,INV-29317,Gabon,Smithmouth,1,0,0,3
+T1419,2024-02-24,Ramirez Group,Sales,Karen Li,743.54,USD,ACH,CFO,2024-02-25,INV-889848,Montserrat,East Brian,0,0,1,1
+T1420,2024-02-25,Roberts Inc,HR,Tara Jackson,7572.89,USD,Credit Card,CFO,2024-02-26,INV-948587,Qatar,Johnsonbury,0,0,1,1
+T1421,2024-02-26,"Jimenez, Montgomery and Jones",Sales,Wayne Rich,6181.49,USD,Credit Card,Director,2024-02-27,INV-137612,Eritrea,Lake Melissa,0,0,0,0
+T1422,2024-02-27,Novak LLC,HR,Keith Thomas,5640.07,GBP,Wire,VP,2024-02-28,INV-886703,Sweden,Gordonton,0,0,0,0
+T1423,2024-02-28,"Edwards, Graves and Hamilton",HR,Cindy Webster,7456.73,EUR,Check,Director,2024-02-29,INV-985893,Monaco,Lake Margaret,0,0,0,0
+T1424,2024-02-29,Ramirez-Nelson,IT,Amanda Hernandez MD,9163.69,GBP,Credit Card,VP,2024-03-01,INV-131040,Djibouti,West Sabrinastad,0,0,0,0
+T1425,2024-03-01,"Smith, Haynes and Glenn",HR,John Robinson,7535.93,GBP,Check,Manager,2024-03-02,INV-787481,Malaysia,East Kevin,0,0,0,0
+T1426,2024-03-02,"Blair, Ramirez and Davis",Finance,Angela Stevenson,397.81,EUR,Check,CFO,2024-03-03,INV-113987,Libyan Arab Jamahiriya,New Shannonchester,0,0,1,1
+T1427,2024-03-03,"Carroll, Freeman and Acosta",Operations,Mary Dawson,1801.06,USD,Wire,Director,2024-03-04,INV-426193,Serbia,New Nancy,0,0,1,1
+T1428,2024-03-04,Keith-Brown,Operations,Darius Stanton,3437.95,USD,Credit Card,VP,2024-03-05,INV-589566,Israel,East Curtis,0,0,0,0
+T1429,2024-03-05,Richard LLC,Sales,Sharon Wood,5065.23,GBP,Wire,Manager,2024-03-06,INV-169239,Guatemala,Port Kathyport,0,0,0,0
+T1430,2024-03-06,Jacobs-Carrillo,HR,Emily Walker,6294.15,USD,Wire,Manager,2024-03-07,INV-206113,Greenland,East Cynthialand,0,0,0,0
+T1431,2024-03-07,"Brady, Robertson and Butler",Finance,Samuel Richards,3185.64,GBP,Credit Card,CFO,2024-03-08,INV-201983,Papua New Guinea,Gregorystad,0,0,0,0
+T1432,2024-03-08,Fields Inc,Sales,Michael Hodge,5466.92,GBP,Credit Card,VP,2024-03-09,INV-974545,Belarus,Port Evanbury,0,0,0,0
+T1433,2024-03-09,Ross-Jennings,IT,Jessica Johnson,3111.54,EUR,ACH,Director,2024-03-10,INV-614451,Cameroon,Port Antonioton,0,0,1,1
+T1434,2024-03-10,Moore and Sons,Sales,Anthony Oneal,3471.21,EUR,ACH,CFO,2024-03-11,INV-894195,Ghana,Michelleport,0,0,1,1
+T1435,2024-03-11,Russo PLC,Sales,William Reynolds,1483.35,EUR,Check,Director,2024-03-12,INV-211005,Northern Mariana Islands,East John,0,0,0,0
+T1436,2024-03-12,Juarez and Sons,HR,James Rocha,2691.92,GBP,Credit Card,Manager,2024-03-13,INV-382788,Greenland,West Daltonmouth,0,0,0,0
+T1437,2024-03-13,"Olson, Conrad and Jarvis",IT,Gina Case,1620.79,EUR,ACH,Director,2024-03-14,INV-177582,Belarus,West Robertborough,0,0,0,0
+T1438,2024-03-14,Terry-Conner,Sales,David White,2560.32,USD,Check,Director,2024-03-15,INV-314906,Reunion,Port Christopher,0,0,0,0
+T1439,2024-03-15,Wilson Group,Finance,William Mejia,7634.1,USD,Check,CFO,2024-03-16,INV-558975,Faroe Islands,Port Elizabethhaven,0,0,0,0
+T1440,2024-03-16,Walsh-Foster,Finance,Emily Callahan,2626.5,GBP,Check,Director,2024-03-17,INV-667526,Jamaica,Port Amy,0,0,1,1
+T1441,2024-03-17,Harrison LLC,Operations,Robert Bates,11580.96,GBP,ACH,CFO,2024-03-18,INV-446100,Zimbabwe,North Andrew,1,0,1,4
+T1442,2024-03-18,"Williams, Proctor and Lopez",IT,Shawn Spencer,6233.29,EUR,Credit Card,Manager,2024-03-19,INV-486786,Belize,Morganport,0,0,0,0
+T1443,2024-03-19,Lee-Harding,IT,Dwayne Crawford,5462.09,GBP,Wire,CFO,2024-03-20,INV-506514,Gambia,West Arielstad,0,0,0,0
+T1444,2024-03-20,Reed-Fleming,Operations,Justin Salazar,2854.11,GBP,Check,CFO,2024-03-21,INV-132476,Turkey,Brownmouth,0,0,0,0
+T1445,2024-03-21,Morrow Ltd,Sales,Danielle Adams,6750.77,USD,ACH,VP,2024-03-22,INV-635560,Estonia,Fullermouth,0,0,0,0
+T1446,2024-03-22,Stokes-Bass,IT,Ricky Hampton,3560.91,USD,ACH,Director,2024-03-23,INV-30090,Colombia,Williamsbury,0,0,0,0
+T1447,2024-03-23,Raymond-Wagner,Finance,Audrey Sampson,5305.02,EUR,Wire,Manager,2024-03-24,INV-399690,Tajikistan,Angelatown,0,0,1,1
+T1448,2024-03-24,Hernandez Group,Finance,Victoria Lyons,11400.21,GBP,Wire,CFO,2024-03-25,INV-286673,Norfolk Island,Vegaport,1,0,1,4
+T1449,2024-03-25,Morrison-Solis,HR,Nicole Evans,4759.85,GBP,ACH,Manager,2024-03-26,INV-19639,India,Holmesborough,0,0,0,0
+T1450,2024-03-26,Humphrey Ltd,IT,Xavier Phillips,7873.18,USD,Credit Card,VP,2024-03-27,INV-340205,Mexico,Pittsview,0,0,0,0
+T1451,2024-03-27,Copeland-Wilson,Sales,Charles Franklin,3242.06,GBP,Wire,Director,2024-03-28,INV-416027,Malaysia,South Kevin,0,0,0,0
+T1452,2024-03-28,Robinson LLC,Operations,Ronald Herrera,4912.53,USD,ACH,CFO,2024-03-29,INV-676266,Latvia,Lake Amy,0,0,0,0
+T1453,2024-03-29,Barker-Sutton,Operations,Stephen Finley,9427.0,EUR,Wire,Director,2024-03-30,INV-129434,Suriname,Williamsborough,0,0,0,0
+T1454,2024-03-30,Brown Ltd,Sales,Kelly Lee,3432.58,USD,Credit Card,VP,2024-03-31,INV-565054,Algeria,Mcmillanburgh,0,0,1,1
+T1455,2024-03-31,Montgomery and Sons,HR,James Wagner,9531.12,GBP,Check,VP,2024-04-01,INV-495010,Grenada,Grantburgh,1,0,1,4
+T1456,2024-04-01,"Farmer, Rodriguez and Thompson",Operations,Nathan Smith,6769.38,EUR,Wire,Manager,2024-04-02,INV-99895,Luxembourg,Victorialand,0,0,0,0
+T1457,2024-04-02,"Johnson, Shields and Graves",IT,Angela Stafford,3593.83,USD,Credit Card,CFO,2024-04-03,INV-240873,British Virgin Islands,Harveymouth,0,0,0,0
+T1458,2024-04-03,"Green, Palmer and Mitchell",HR,Angela Evans,6581.02,USD,ACH,Manager,2024-04-04,INV-273549,Senegal,North Matthewbury,0,0,0,0
+T1459,2024-04-04,"Williams, Miranda and Martinez",IT,Krista Smith,7431.39,EUR,Wire,VP,2024-04-05,INV-57277,Lithuania,West Rebeccahaven,0,0,0,0
+T1460,2024-04-05,Cooper-Rice,Finance,Amber Meza,6554.52,EUR,Wire,Director,2024-04-06,INV-920965,South Africa,New Charlesberg,0,0,0,0
+T1461,2024-04-06,"Morse, Miller and Burns",HR,Marissa Brown,1074.44,USD,ACH,Manager,2024-04-07,INV-766474,Tunisia,Port Steven,0,0,1,1
+T1462,2024-04-07,"Blankenship, Riggs and Taylor",Operations,Amy Williams,3182.16,GBP,Check,Manager,2024-04-08,INV-103689,Isle of Man,Lindachester,0,0,1,1
+T1463,2024-04-08,"Kline, Chavez and Jones",HR,Mary Garrett,4381.2,USD,ACH,Director,2024-04-09,INV-80817,Uruguay,Melissaville,0,0,0,0
+T1464,2024-04-09,Wolfe-Scott,HR,David Davidson,4813.92,EUR,Wire,Manager,2024-04-10,INV-433027,Brazil,New Meghan,0,0,0,0
+T1465,2024-04-10,Lam LLC,HR,Joseph Alexander,6551.68,USD,ACH,Director,2024-04-11,INV-633219,Belarus,Carlosbury,0,0,0,0
+T1466,2024-04-11,Krueger Group,HR,Jerry White,5444.25,EUR,Credit Card,CFO,2024-04-12,INV-90264,Isle of Man,Escobarfort,0,0,0,0
+T1467,2024-04-12,"Franklin, Perez and Rose",IT,Jenna Hamilton,1661.64,EUR,ACH,Director,2024-04-13,INV-199378,Equatorial Guinea,Ericborough,0,0,0,0
+T1468,2024-04-13,Navarro and Sons,Finance,Larry Morgan,5950.49,GBP,Wire,CFO,2024-04-14,INV-7630,Brazil,Lake Carlos,1,0,1,4
+T1469,2024-04-14,Hudson-Young,Sales,Linda Harris,6526.46,EUR,ACH,Director,2024-04-15,INV-711050,Heard Island and McDonald Islands,West Ryanmouth,0,0,1,1
+T1470,2024-04-15,"Pena, Walker and Nelson",HR,Billy Ramsey,6399.48,EUR,Check,VP,2024-04-16,INV-750413,Tajikistan,Port Crystaltown,0,0,0,0
+T1471,2024-04-16,Klein PLC,Operations,Karen Sanders,7701.95,GBP,ACH,VP,2024-04-17,INV-839124,Canada,New Rachel,0,0,0,0
+T1472,2024-04-17,Taylor LLC,HR,Veronica Christensen,7084.81,EUR,Check,CFO,2024-04-18,INV-1840,El Salvador,North Christinemouth,0,0,0,0
+T1473,2024-04-18,"Murphy, Williams and Saunders",Operations,Heather Smith,6147.95,GBP,Credit Card,CFO,2024-04-19,INV-498044,Gambia,Lake Vanessabury,0,0,0,0
+T1474,2024-04-19,"Torres, Holland and Stewart",IT,Abigail Singleton,4824.59,GBP,Check,VP,2024-04-20,INV-705784,Pakistan,Masonshire,0,0,0,0
+T1475,2024-04-20,Morgan and Sons,Operations,Dorothy Fitzgerald,847.6,EUR,ACH,CFO,2024-04-21,INV-276208,Mexico,East Antonio,0,0,1,1
+T1476,2024-04-21,Figueroa-Lowe,Sales,Alex Padilla,6074.05,EUR,Wire,Director,2024-04-22,INV-87736,Belarus,Priceland,0,0,1,1
+T1477,2024-04-22,Hill-Davis,Finance,Jeffrey Hoffman Jr.,5519.22,USD,Check,Director,2024-04-23,INV-621253,Kuwait,Robinsonborough,0,0,0,0
+T1478,2024-04-23,Curry-Odonnell,Operations,Anna Williams,5678.95,GBP,Credit Card,VP,2024-04-24,INV-266944,Christmas Island,East Antoniofurt,0,0,0,0
+T1479,2024-04-24,Hunt PLC,Operations,Christie Liu,1808.13,USD,Check,Manager,2024-04-25,INV-576149,Tokelau,Lake Gilberttown,0,0,0,0
+T1480,2024-04-25,"Ramsey, Shaffer and Quinn",Finance,Kimberly Wolfe,2297.36,EUR,Check,Director,2024-04-26,INV-762707,Tanzania,South Maryport,0,0,0,0
+T1481,2024-04-26,Foster Inc,Sales,Elizabeth Case,7632.88,USD,Check,CFO,2024-04-27,INV-637984,Djibouti,Rebeccashire,0,0,0,0
+T1482,2024-04-27,"Lopez, Wheeler and Riley",HR,Cory Shaffer,4901.11,GBP,Credit Card,Manager,2024-04-28,INV-991827,Greece,Gallowaymouth,0,0,1,1
+T1483,2024-04-28,"Moore, Brown and Frederick",Operations,Jon Frank,6703.75,USD,ACH,Manager,2024-04-29,INV-664953,El Salvador,Feliciaview,0,0,1,1
+T1484,2024-04-29,Cruz Inc,Finance,Julia Cooper,5070.8,GBP,Check,Director,2024-04-30,INV-444400,Oman,North Richardhaven,0,0,0,0
+T1485,2024-04-30,"Reyes, Walton and Little",IT,Belinda Rodriguez,5074.39,EUR,Check,Director,2024-05-01,INV-477823,Samoa,Janiceshire,0,0,0,0
+T1486,2024-05-01,Dunn Group,Finance,Rhonda Williams PhD,7345.71,EUR,Wire,Manager,2024-05-02,INV-871815,Romania,Roblesmouth,0,0,0,0
+T1487,2024-05-02,Smith-Williams,IT,Mark Hall,3709.89,GBP,Credit Card,Manager,2024-05-03,INV-208126,Palau,North Sean,0,0,0,0
+T1488,2024-05-03,"Carter, Kelley and Greene",Sales,Melanie Campbell,5240.3,EUR,Check,VP,2024-05-04,INV-777667,Afghanistan,Marthastad,0,0,0,0
+T1489,2024-05-04,"Gonzales, Mendez and Henderson",HR,David Lewis,3844.31,EUR,Credit Card,CFO,2024-05-05,INV-847913,China,Matthewborough,0,0,1,1
+T1490,2024-05-05,"Peck, Thomas and Griffin",Finance,Katherine Richardson,3913.76,EUR,Check,VP,2024-05-06,INV-816583,Grenada,Port Autumn,0,0,1,1
+T1491,2024-05-06,Taylor-Stewart,Operations,Michael Pierce,4227.07,EUR,ACH,Director,2024-05-07,INV-173930,Sri Lanka,Saraburgh,0,0,0,0
+T1492,2024-05-07,"Young, Martinez and Cain",Sales,Monique Sanchez,5555.33,GBP,ACH,VP,2024-05-08,INV-831644,Nauru,West Faith,0,0,0,0
+T1493,2024-05-08,Jones Inc,Finance,Gregory Bright,3803.13,USD,Check,VP,2024-05-09,INV-267985,Saudi Arabia,Thompsonfurt,0,0,0,0
+T1494,2024-05-09,White Group,Operations,Patrick Bradley,8139.39,USD,ACH,VP,2024-05-10,INV-569568,Christmas Island,East Stephaniebury,0,0,0,0
+T1495,2024-05-10,Alvarado-Marks,Finance,Robert Anderson,2763.48,EUR,Check,VP,2024-05-11,INV-878808,Sao Tome and Principe,South Sonia,0,0,0,0
+T1496,2024-05-11,Morales Ltd,IT,Jennifer Bryant,4532.82,USD,ACH,CFO,2024-05-12,INV-811040,Haiti,Seanmouth,0,0,1,1
+T1497,2024-05-12,Day Inc,Finance,Matthew Wilson,3900.67,USD,Wire,CFO,2024-05-13,INV-890105,Italy,Jamesview,0,0,1,1
+T1498,2024-05-13,Carroll Inc,Finance,Ethan Walker,8617.44,EUR,Wire,Manager,2024-05-14,INV-112894,Mauritius,East Kristen,0,0,0,0
+T1499,2024-05-14,Valentine and Sons,Finance,Brian Morales,5491.39,EUR,Wire,Director,2024-05-15,INV-914944,Philippines,Paulstad,0,0,0,0
