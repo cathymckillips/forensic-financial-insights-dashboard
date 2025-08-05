@@ -52,11 +52,11 @@ To surface hidden patterns in transactional data for early detection of financia
 ## 📁 Files Included
 - `Forensic-Financial-Insights_Dashboard.pbix`: Main Power BI project file
 - `Forensic_Transaction_Data.csv`: Sample dataset
-- `forensic_financial_insights_dashboard`: Visual preview of the report
+- `forensic-financial.png`: Visual preview of the report
 
 - ## 🖼 Sample Screenshot
 
-![Dashboard Overview](images/forensic_financial_insights_dashboard.png)
+![Dashboard Overview](forensic-financial.png)
 
 
 ## 🗂️ Project Status
